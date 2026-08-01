@@ -40,8 +40,16 @@ STATE_PATH = STATE_DIR / "state.json"
 TRAIN_DATA_PATH = DATA_DIR / "train_data.jsonl"
 EVAL_HISTORY_PATH = DATA_DIR / "eval_history.jsonl"
 
-TRAIN_STEPS = int(os.environ.get("TRAIN_STEPS", "300"))
-BATCH_SIZE = int(os.environ.get("TRAIN_BATCH_SIZE", "16"))
+
+def _env_int(name: str, default: int) -> int:
+    """يقرأ متغير بيئة كرقم صحيح، ويتجاهل القيم الفارغة (GitHub Actions يبعت '' لو
+    الـ variable مش معرّف بدل ما يشيل المتغير خالص)."""
+    raw = os.environ.get(name, "").strip()
+    return int(raw) if raw else default
+
+
+TRAIN_STEPS = _env_int("TRAIN_STEPS", 300)
+BATCH_SIZE = _env_int("TRAIN_BATCH_SIZE", 16)
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
@@ -87,7 +95,7 @@ def main():
     if not api_key:
         raise RuntimeError("متغير البيئة GROQ_API_KEY غير موجود. أضفه كـ Secret في GitHub.")
 
-    groq_model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+    groq_model = os.environ.get("GROQ_MODEL", "").strip() or "llama-3.3-70b-versatile"
     agent = GroqAgent(api_key=api_key, model=groq_model)
     tokenizer = ByteTokenizer()
     state = load_state()
