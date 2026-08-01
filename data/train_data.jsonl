@@ -1,0 +1,193 @@
+{"prompt": "Hello", "completion": "world"}
+{"prompt": "What is 1+1", "completion": "2"}
+{"prompt": "I am", "completion": "happy"}
+{"prompt": "The cat", "completion": "sleeps"}
+{"prompt": "How are you", "completion": "fine"}
+{"prompt": "What is 2+2", "completion": "4"}
+{"prompt": "The dog", "completion": "barks"}
+{"prompt": "I like", "completion": "coffee"}
+{"prompt": "What is 5-1", "completion": "4"}
+{"prompt": "The sun", "completion": "shines"}
+{"prompt": "I have", "completion": "a pen"}
+{"prompt": "What is 7+0", "completion": "7"}
+{"prompt": "The book", "completion": "is old"}
+{"prompt": "How old are you", "completion": "30"}
+{"prompt": "I love", "completion": "music"}
+{"prompt": "What is 9-3", "completion": "6"}
+{"prompt": "The car", "completion": "is red"}
+{"prompt": "I need", "completion": "help"}
+{"prompt": "What is 1+2", "completion": "3"}
+{"prompt": "The baby", "completion": "cries"}
+{"prompt": "I want", "completion": "food"}
+{"prompt": "What is 8-2", "completion": "6"}
+{"prompt": "The tree", "completion": "is tall"}
+{"prompt": "I see", "completion": "a bird"}
+{"prompt": "What is 4+1", "completion": "5"}
+{"prompt": "The phone", "completion": "rings"}
+{"prompt": "I have", "completion": "a dog"}
+{"prompt": "What is 6-1", "completion": "5"}
+{"prompt": "The house", "completion": "is big"}
+{"prompt": "I like", "completion": "sports"}
+{"prompt": "What is 3+3", "completion": "6"}
+{"prompt": "The bike", "completion": "is fast"}
+{"prompt": "I need", "completion": "water"}
+{"prompt": "What is 2+3", "completion": "5"}
+{"prompt": "The flower", "completion": "is pink"}
+{"prompt": "I want", "completion": "fun"}
+{"prompt": "What is 1+3", "completion": "4"}
+{"prompt": "The car", "completion": "is fast"}
+{"prompt": "I have", "completion": "a cat"}
+{"prompt": "What is 9-4", "completion": "5"}
+{"prompt": "The boy", "completion": "is happy"}
+{"prompt": "I see", "completion": "a car"}
+{"prompt": "What is 7-1", "completion": "6"}
+{"prompt": "The girl", "completion": "is sad"}
+{"prompt": "I like", "completion": "games"}
+{"prompt": "What is 6+2", "completion": "8"}
+{"prompt": "The sun", "completion": "is hot"}
+{"prompt": "I need", "completion": "sleep"}
+{"prompt": "What is 8-4", "completion": "4"}
+{"prompt": "The dog", "completion": "is happy"}
+{"prompt": "I want", "completion": "ice cream"}
+{"prompt": "What is 3+2", "completion": "5"}
+{"prompt": "The book", "completion": "is new"}
+{"prompt": "I have", "completion": "a phone"}
+{"prompt": "What is 5+1", "completion": "6"}
+{"prompt": "The tree", "completion": "is green"}
+{"prompt": "I see", "completion": "a house"}
+{"prompt": "What is 2+4", "completion": "6"}
+{"prompt": "The bike", "completion": "is old"}
+{"prompt": "I like", "completion": "reading"}
+{"prompt": "What is 9-2", "completion": "7"}
+{"prompt": "The car", "completion": "is black"}
+{"prompt": "I need", "completion": "help now"}
+{"prompt": "What is 1+4", "completion": "5"}
+{"prompt": "The flower", "completion": "is yellow"}
+{"prompt": "I want", "completion": "to play"}
+{"prompt": "What is 6-3", "completion": "3"}
+{"prompt": "The boy", "completion": "is tall"}
+{"prompt": "I have", "completion": "a ball"}
+{"prompt": "What is 8-1", "completion": "7"}
+{"prompt": "The girl", "completion": "is smart"}
+{"prompt": "I like", "completion": "dancing"}
+{"prompt": "What is 4+2", "completion": "6"}
+{"prompt": "The sun", "completion": "is bright"}
+{"prompt": "I need", "completion": "a break"}
+{"prompt": "What is 3+1", "completion": "4"}
+{"prompt": "The house", "completion": "is small"}
+{"prompt": "I want", "completion": "to run"}
+{"prompt": "What is 5-2", "completion": "3"}
+{"prompt": "The dog", "completion": "is brown"}
+{"prompt": "I have", "completion": "a friend"}
+{"prompt": "What is 2+1", "completion": "3"}
+{"prompt": "The bike", "completion": "is red"}
+{"prompt": "I like", "completion": "swimming"}
+{"prompt": "What is 9-1", "completion": "8"}
+{"prompt": "The tree", "completion": "is old"}
+{"prompt": "I see", "completion": "a bird flying"}
+{"prompt": "What is 7+1", "completion": "8"}
+{"prompt": "The car", "completion": "is silver"}
+{"prompt": "I need", "completion": "a map"}
+{"prompt": "What is 6-2", "completion": "4"}
+{"prompt": "The boy", "completion": "is strong"}
+{"prompt": "I have", "completion": "a pencil"}
+{"prompt": "What is 4+3", "completion": "7"}
+{"prompt": "The girl", "completion": "is happy"}
+{"prompt": "I want", "completion": "to sing"}
+{"prompt": "What is 3+4", "completion": "7"}
+{"prompt": "The house", "completion": "is white"}
+{"prompt": "I like", "completion": "hiking"}
+{"prompt": "What is 2+5", "completion": "7"}
+{"prompt": "The dog", "completion": "is big"}
+{"prompt": "I see", "completion": "a cat sleeping"}
+{"prompt": "What is 1+5", "completion": "6"}
+{"prompt": "The bike", "completion": "is blue"}
+{"prompt": "I have", "completion": "a book"}
+{"prompt": "What is 9-6", "completion": "3"}
+{"prompt": "The tree", "completion": "is tall"}
+{"prompt": "I need", "completion": "a chair"}
+{"prompt": "What is 8-3", "completion": "5"}
+{"prompt": "The car", "completion": "is fast"}
+{"prompt": "I want", "completion": "to dance"}
+{"prompt": "What is 5+2", "completion": "7"}
+{"prompt": "The boy", "completion": "is smart"}
+{"prompt": "I have", "completion": "a phone"}
+{"prompt": "What is 4+4", "completion": "8"}
+{"prompt": "The girl", "completion": "is tall"}
+{"prompt": "I like", "completion": "jogging"}
+{"prompt": "What is 3+5", "completion": "8"}
+{"prompt": "The house", "completion": "is old"}
+{"prompt": "I see", "completion": "a dog running"}
+{"prompt": "What is 2+6", "completion": "8"}
+{"prompt": "The bike", "completion": "is green"}
+{"prompt": "I need", "completion": "a bike"}
+{"prompt": "What is 1+6", "completion": "7"}
+{"prompt": "The tree", "completion": "is green"}
+{"prompt": "I want", "completion": "to play"}
+{"prompt": "What is 9-5", "completion": "4"}
+{"prompt": "The car", "completion": "is black"}
+{"prompt": "I have", "completion": "a car"}
+{"prompt": "What is 7-2", "completion": "5"}
+{"prompt": "The boy", "completion": "is happy"}
+{"prompt": "I like", "completion": "reading books"}
+{"prompt": "What is 6-4", "completion": "2"}
+{"prompt": "The girl", "completion": "is smart"}
+{"prompt": "I see", "completion": "a bird flying high"}
+{"prompt": "What is 5-3", "completion": "2"}
+{"prompt": "The house", "completion": "is big"}
+{"prompt": "I need", "completion": "a pen"}
+{"prompt": "What is 4+5", "completion": "9"}
+{"prompt": "The dog", "completion": "is brown"}
+{"prompt": "I want", "completion": "to run fast"}
+{"prompt": "What is 3+6", "completion": "9"}
+{"prompt": "The bike", "completion": "is old"}
+{"prompt": "I have", "completion": "a bike"}
+{"prompt": "What is 2+7", "completion": "9"}
+{"prompt": "The tree", "completion": "is tall"}
+{"prompt": "I like", "completion": "playing games"}
+{"prompt": "What is 1+7", "completion": "8"}
+{"prompt": "The car", "completion": "is silver"}
+{"prompt": "I see", "completion": "a cat sleeping"}
+{"prompt": "What is 9-7", "completion": "2"}
+{"prompt": "The boy", "completion": "is strong"}
+{"prompt": "I need", "completion": "a map"}
+{"prompt": "What is 6-5", "completion": "1"}
+{"prompt": "The girl", "completion": "is happy"}
+{"prompt": "I want", "completion": "to sing a song"}
+{"prompt": "What is 5-4", "completion": "1"}
+{"prompt": "The house", "completion": "is white"}
+{"prompt": "I have", "completion": "a friend"}
+{"prompt": "What is 4+6", "completion": "10"}
+{"prompt": "The dog", "completion": "is big"}
+{"prompt": "I like", "completion": "hiking"}
+{"prompt": "What is 3+7", "completion": "10"}
+{"prompt": "The bike", "completion": "is blue"}
+{"prompt": "I see", "completion": "a bird flying"}
+{"prompt": "What is 2+8", "completion": "10"}
+{"prompt": "The tree", "completion": "is green"}
+{"prompt": "I need", "completion": "a chair"}
+{"prompt": "What is 1+8", "completion": "9"}
+{"prompt": "The car", "completion": "is fast"}
+{"prompt": "I want", "completion": "to dance"}
+{"prompt": "What is 9-8", "completion": "1"}
+{"prompt": "The boy", "completion": "is smart"}
+{"prompt": "I have", "completion": "a book"}
+{"prompt": "What is 7-3", "completion": "4"}
+{"prompt": "The girl", "completion": "is tall"}
+{"prompt": "I like", "completion": "jogging"}
+{"prompt": "What is 6-6", "completion": "0"}
+{"prompt": "The house", "completion": "is old"}
+{"prompt": "I see", "completion": "a dog running"}
+{"prompt": "What is 5-5", "completion": "0"}
+{"prompt": "The bike", "completion": "is green"}
+{"prompt": "I need", "completion": "a bike"}
+{"prompt": "What is 4-4", "completion": "0"}
+{"prompt": "The tree", "completion": "is tall"}
+{"prompt": "I want", "completion": "to play"}
+{"prompt": "What is 3-3", "completion": "0"}
+{"prompt": "The car", "completion": "is black"}
+{"prompt": "I have", "completion": "a car"}
+{"prompt": "What is 2-2", "completion": "0"}
+{"prompt": "The boy", "completion": "is happy"}
+{"prompt": "I like", "completion": "reading books"}
+{"prompt": "What is 1-1", "completion": "0"}
