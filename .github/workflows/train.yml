@@ -1,0 +1,43 @@
+name: Train Tiny LM Agent
+
+on:
+  workflow_dispatch:      # تشغيل يدوي من تبويب Actions
+  schedule:
+    - cron: "0 3 * * *"   # تشغيل تلقائي يوميًا الساعة 3 صباحًا UTC (عدّل حسب رغبتك)
+
+permissions:
+  contents: write   # مطلوب لعمل commit/push تلقائي للـ checkpoint والبيانات
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run training agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          TRAIN_STEPS: ${{ vars.TRAIN_STEPS }}
+        run: python main.py
+
+      - name: Commit and push updated checkpoint & data
+        run: |
+          git config user.name "groq-tiny-lm-bot"
+          git config user.email "actions@github.com"
+          git add checkpoints/ data/ state/
+          git diff --cached --quiet || git commit -m "Auto-update: model checkpoint + training data [skip ci]"
+          git push
+          
