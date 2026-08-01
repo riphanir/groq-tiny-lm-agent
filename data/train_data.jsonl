@@ -191,3 +191,441 @@
 {"prompt": "The boy", "completion": "is happy"}
 {"prompt": "I like", "completion": "reading books"}
 {"prompt": "What is 1-1", "completion": "0"}
+{"prompt": "Capital of France", "completion": "Paris"}
+{"prompt": "5-2", "completion": "3"}
+{"prompt": "Sun rises in", "completion": "east"}
+{"prompt": "7*3", "completion": "21"}
+{"prompt": "Largest planet", "completion": "Jupiter"}
+{"prompt": "200/5*3", "completion": "120"}
+{"prompt": "Book author", "completion": "writer"}
+{"prompt": "11-4", "completion": "7"}
+{"prompt": "Largest mammal", "completion": "whale"}
+{"prompt": "Tomorrow weather", "completion": "rain"}
+{"prompt": "2+2", "completion": "4"}
+{"prompt": "City in Japan", "completion": "Tokyo"}
+{"prompt": "7-1", "completion": "6"}
+{"prompt": "Big cat", "completion": "lion"}
+{"prompt": "10/2", "completion": "5"}
+{"prompt": "Fruit color", "completion": "red"}
+{"prompt": "1+1", "completion": "2"}
+{"prompt": "US state", "completion": "California"}
+{"prompt": "8*3", "completion": "24"}
+{"prompt": "Small dog", "completion": "poodle"}
+{"prompt": "9-3", "completion": "6"}
+{"prompt": "Bird sound", "completion": "chirp"}
+{"prompt": "4*4", "completion": "16"}
+{"prompt": "Car part", "completion": "wheel"}
+{"prompt": "6-2", "completion": "4"}
+{"prompt": "Tree type", "completion": "oak"}
+{"prompt": "3+3", "completion": "6"}
+{"prompt": "Animal sound", "completion": "roar"}
+{"prompt": "12/4", "completion": "3"}
+{"prompt": "Sport game", "completion": "football"}
+{"prompt": "5*5", "completion": "25"}
+{"prompt": "Music instrument", "completion": "guitar"}
+{"prompt": "11+1", "completion": "12"}
+{"prompt": "Country in Asia", "completion": "China"}
+{"prompt": "8-4", "completion": "4"}
+{"prompt": "Flower type", "completion": "rose"}
+{"prompt": "2*6", "completion": "12"}
+{"prompt": "Planet in solar system", "completion": "Mars"}
+{"prompt": "15/5", "completion": "3"}
+{"prompt": "Famous painter", "completion": "Picasso"}
+{"prompt": "9+2", "completion": "11"}
+{"prompt": "Type of computer", "completion": "laptop"}
+{"prompt": "6*3", "completion": "18"}
+{"prompt": "Form of exercise", "completion": "running"}
+{"prompt": "14-7", "completion": "7"}
+{"prompt": "Type of food", "completion": "pizza"}
+{"prompt": "10*2", "completion": "20"}
+{"prompt": "US president", "completion": "Washington"}
+{"prompt": "7+4", "completion": "11"}
+{"prompt": "Type of car", "completion": "Toyota"}
+{"prompt": "16/4", "completion": "4"}
+{"prompt": "Famous scientist", "completion": "Einstein"}
+{"prompt": "13-5", "completion": "8"}
+{"prompt": "Type of music", "completion": "rock"}
+{"prompt": "4*9", "completion": "36"}
+{"prompt": "Form of art", "completion": "painting"}
+{"prompt": "12+1", "completion": "13"}
+{"prompt": "Country in Europe", "completion": "France"}
+{"prompt": "8+8", "completion": "16"}
+{"prompt": "Type of animal", "completion": "dog"}
+{"prompt": "18/3", "completion": "6"}
+{"prompt": "Famous author", "completion": "Shakespeare"}
+{"prompt": "6+6", "completion": "12"}
+{"prompt": "Type of sport", "completion": "football"}
+{"prompt": "9*3", "completion": "27"}
+{"prompt": "Form of entertainment", "completion": "movie"}
+{"prompt": "15+2", "completion": "17"}
+{"prompt": "Type of flower", "completion": "lily"}
+{"prompt": "20/4", "completion": "5"}
+{"prompt": "Famous musician", "completion": "Beethoven"}
+{"prompt": "7*2", "completion": "14"}
+{"prompt": "Type of tree", "completion": "pine"}
+{"prompt": "11+4", "completion": "15"}
+{"prompt": "Country in Africa", "completion": "Egypt"}
+{"prompt": "10-3", "completion": "7"}
+{"prompt": "Type of fruit", "completion": "apple"}
+{"prompt": "5*2", "completion": "10"}
+{"prompt": "Famous athlete", "completion": "Jordan"}
+{"prompt": "8+4", "completion": "12"}
+{"prompt": "Type of bird", "completion": "eagle"}
+{"prompt": "6*8", "completion": "48"}
+{"prompt": "Form of transportation", "completion": "car"}
+{"prompt": "9+9", "completion": "18"}
+{"prompt": "Type of food", "completion": "burger"}
+{"prompt": "14+2", "completion": "16"}
+{"prompt": "Country in South America", "completion": "Brazil"}
+{"prompt": "7-1", "completion": "6"}
+{"prompt": "Type of computer software", "completion": "Windows"}
+{"prompt": "4*6", "completion": "24"}
+{"prompt": "Famous historical figure", "completion": "Lincoln"}
+{"prompt": "12-6", "completion": "6"}
+{"prompt": "Type of sport equipment", "completion": "ball"}
+{"prompt": "10*3", "completion": "30"}
+{"prompt": "Form of music", "completion": "jazz"}
+{"prompt": "5+5", "completion": "10"}
+{"prompt": "Type of animal habitat", "completion": "forest"}
+{"prompt": "8*2", "completion": "16"}
+{"prompt": "Famous artist", "completion": "Van Gogh"}
+{"prompt": "6+2", "completion": "8"}
+{"prompt": "Type of vehicle", "completion": "truck"}
+{"prompt": "9*9", "completion": "81"}
+{"prompt": "Form of exercise equipment", "completion": "treadmill"}
+{"prompt": "7+7", "completion": "14"}
+{"prompt": "Type of food ingredient", "completion": "sugar"}
+{"prompt": "11-3", "completion": "8"}
+{"prompt": "Country in North America", "completion": "Canada"}
+{"prompt": "5*3", "completion": "15"}
+{"prompt": "Famous writer", "completion": "Hemingway"}
+{"prompt": "4+4", "completion": "8"}
+{"prompt": "Type of sport team", "completion": "football team"}
+{"prompt": "10*2", "completion": "20"}
+{"prompt": "Form of art style", "completion": "impressionism"}
+{"prompt": "8-2", "completion": "6"}
+{"prompt": "Type of computer hardware", "completion": "keyboard"}
+{"prompt": "6*4", "completion": "24"}
+{"prompt": "Famous musician group", "completion": "Beatles"}
+{"prompt": "9+1", "completion": "10"}
+{"prompt": "Type of tree leaf", "completion": "oak leaf"}
+{"prompt": "7*1", "completion": "7"}
+{"prompt": "Country in Asia", "completion": "Japan"}
+{"prompt": "5-1", "completion": "4"}
+{"prompt": "Type of flower petal", "completion": "rose petal"}
+{"prompt": "4*8", "completion": "32"}
+{"prompt": "Famous historical event", "completion": "WWII"}
+{"prompt": "10+1", "completion": "11"}
+{"prompt": "Type of animal sound", "completion": "bark"}
+{"prompt": "6+6", "completion": "12"}
+{"prompt": "Form of music genre", "completion": "rock music"}
+{"prompt": "8*3", "completion": "24"}
+{"prompt": "Type of food dish", "completion": "sushi"}
+{"prompt": "9-4", "completion": "5"}
+{"prompt": "Country in Europe", "completion": "Germany"}
+{"prompt": "7+2", "completion": "9"}
+{"prompt": "Type of sport player", "completion": "football player"}
+{"prompt": "5*4", "completion": "20"}
+{"prompt": "Famous artist style", "completion": "cubism"}
+{"prompt": "11+2", "completion": "13"}
+{"prompt": "Type of computer virus", "completion": "trojan"}
+{"prompt": "6*9", "completion": "54"}
+{"prompt": "Form of exercise routine", "completion": "workout"}
+{"prompt": "10-2", "completion": "8"}
+{"prompt": "Type of animal habitat", "completion": "desert"}
+{"prompt": "4+2", "completion": "6"}
+{"prompt": "Country in South America", "completion": "Argentina"}
+{"prompt": "8+1", "completion": "9"}
+{"prompt": "Type of food ingredient", "completion": "salt"}
+{"prompt": "9*2", "completion": "18"}
+{"prompt": "Famous writer book", "completion": "To Kill a Mockingbird"}
+{"prompt": "7-3", "completion": "4"}
+{"prompt": "Type of sport equipment", "completion": "glove"}
+{"prompt": "6+1", "completion": "7"}
+{"prompt": "Form of music instrument", "completion": "piano"}
+{"prompt": "5*6", "completion": "30"}
+{"prompt": "Type of computer software", "completion": "operating system"}
+{"prompt": "11-2", "completion": "9"}
+{"prompt": "Country in Africa", "completion": "South Africa"}
+{"prompt": "4*3", "completion": "12"}
+{"prompt": "Famous musician song", "completion": "Bohemian Rhapsody"}
+{"prompt": "10+3", "completion": "13"}
+{"prompt": "Type of animal sound", "completion": "meow"}
+{"prompt": "9+3", "completion": "12"}
+{"prompt": "Form of exercise type", "completion": "yoga"}
+{"prompt": "8-1", "completion": "7"}
+{"prompt": "Type of food dish", "completion": "pizza"}
+{"prompt": "7*4", "completion": "28"}
+{"prompt": "Country in North America", "completion": "Mexico"}
+{"prompt": "6-3", "completion": "3"}
+{"prompt": "Type of sport team", "completion": "basketball team"}
+{"prompt": "5+4", "completion": "9"}
+{"prompt": "Famous artist painting", "completion": "Starry Night"}
+{"prompt": "11+1", "completion": "12"}
+{"prompt": "Type of computer hardware", "completion": "mouse"}
+{"prompt": "4*6", "completion": "24"}
+{"prompt": "Form of music style", "completion": "classical music"}
+{"prompt": "9*1", "completion": "9"}
+{"prompt": "Type of animal habitat", "completion": "forest"}
+{"prompt": "8+2", "completion": "10"}
+{"prompt": "Country in Europe", "completion": "Italy"}
+{"prompt": "7-2", "completion": "5"}
+{"prompt": "Type of food ingredient", "completion": "flour"}
+{"prompt": "6*2", "completion": "12"}
+{"prompt": "Famous writer book", "completion": "Pride and Prejudice"}
+{"prompt": "5-2", "completion": "3"}
+{"prompt": "Form of exercise routine", "completion": "stretching"}
+{"prompt": "10*1", "completion": "10"}
+{"prompt": "Type of sport equipment", "completion": "helmet"}
+{"prompt": "4+1", "completion": "5"}
+{"prompt": "Country in Asia", "completion": "China"}
+{"prompt": "9+2", "completion": "11"}
+{"prompt": "Type of animal sound", "completion": "roar"}
+{"prompt": "8*4", "completion": "32"}
+{"prompt": "Famous musician album", "completion": "Thriller"}
+{"prompt": "7+1", "completion": "8"}
+{"prompt": "Type of food dish", "completion": "tacos"}
+{"prompt": "6-1", "completion": "5"}
+{"prompt": "Form of music genre", "completion": "hip hop"}
+{"prompt": "5*1", "completion": "5"}
+{"prompt": "Country in South America", "completion": "Chile"}
+{"prompt": "11-1", "completion": "10"}
+{"prompt": "Type of computer software", "completion": "web browser"}
+{"prompt": "9*3", "completion": "27"}
+{"prompt": "Famous artist style", "completion": "impressionism"}
+{"prompt": "4*2", "completion": "8"}
+{"prompt": "Type of animal habitat", "completion": "desert"}
+{"prompt": "10-1", "completion": "9"}
+{"prompt": "Country in North America", "completion": "USA"}
+{"prompt": "8+3", "completion": "11"}
+{"prompt": "Type of food ingredient", "completion": "cheese"}
+{"prompt": "7*3", "completion": "21"}
+{"prompt": "Famous writer book", "completion": "1984"}
+{"prompt": "6+3", "completion": "9"}
+{"prompt": "Form of exercise type", "completion": "running"}
+{"prompt": "5*5", "completion": "25"}
+{"prompt": "Type of sport equipment", "completion": "ball"}
+{"prompt": "11+3", "completion": "14"}
+{"prompt": "Country in Europe", "completion": "Spain"}
+{"prompt": "9-2", "completion": "7"}
+{"prompt": "Type of animal sound", "completion": "chirp"}
+{"prompt": "4*9", "completion": "36"}
+{"prompt": "Famous musician song", "completion": "Hotel California"}
+{"prompt": "10+2", "completion": "12"}
+{"prompt": "Type of food dish", "completion": "salad"}
+{"prompt": "8*1", "completion": "8"}
+{"prompt": "Country in Asia", "completion": "India"}
+{"prompt": "7-1", "completion": "6"}
+{"prompt": "Type of computer hardware", "completion": "keyboard"}
+{"prompt": "6*6", "completion": "36"}
+{"prompt": "Famous artist painting", "completion": "Mona Lisa"}
+{"prompt": "5+1", "completion": "6"}
+{"prompt": "Type of animal habitat", "completion": "jungle"}
+{"prompt": "9+1", "completion": "10"}
+{"prompt": "Country in South America", "completion": "Brazil"}
+{"prompt": "11-2", "completion": "9"}
+{"prompt": "Type of food ingredient", "completion": "salt"}
+{"prompt": "4*8", "completion": "32"}
+{"prompt": "Famous writer book", "completion": "To Kill a Mockingbird"}
+{"prompt": "7+4", "completion": "11"}
+{"prompt": "Type of sport equipment", "completion": "glove"}
+{"prompt": "10-3", "completion": "7"}
+{"prompt": "Country in North America", "completion": "Canada"}
+{"prompt": "6+2", "completion": "8"}
+{"prompt": "Type of animal sound", "completion": "meow"}
+{"prompt": "9*2", "completion": "18"}
+{"prompt": "Famous musician album", "completion": "Back in Black"}
+{"prompt": "8+4", "completion": "12"}
+{"prompt": "Type of food dish", "completion": "pizza"}
+{"prompt": "5*3", "completion": "15"}
+{"prompt": "Country in Europe", "completion": "Germany"}
+{"prompt": "11+1", "completion": "12"}
+{"prompt": "Type of computer software", "completion": "operating system"}
+{"prompt": "7-3", "completion": "4"}
+{"prompt": "Famous artist style", "completion": "cubism"}
+{"prompt": "4*6", "completion": "24"}
+{"prompt": "Type of animal habitat", "completion": "forest"}
+{"prompt": "10*2", "completion": "20"}
+{"prompt": "Country in Asia", "completion": "Japan"}
+{"prompt": "9+3", "completion": "12"}
+{"prompt": "Type of sport team", "completion": "football team"}
+{"prompt": "8-2", "completion": "6"}
+{"prompt": "Famous writer book", "completion": "Pride and Prejudice"}
+{"prompt": "6*4", "completion": "24"}
+{"prompt": "Type of food ingredient", "completion": "flour"}
+{"prompt": "5+4", "completion": "9"}
+{"prompt": "Country in South America", "completion": "Argentina"}
+{"prompt": "11-4", "completion": "7"}
+{"prompt": "Type of computer hardware", "completion": "mouse"}
+{"prompt": "7*2", "completion": "14"}
+{"prompt": "Famous musician song", "completion": "Bohemian Rhapsody"}
+{"prompt": "10+1", "completion": "11"}
+{"prompt": "Type of animal sound", "completion": "roar"}
+{"prompt": "9*1", "completion": "9"}
+{"prompt": "Country in North America", "completion": "Mexico"}
+{"prompt": "8+1", "completion": "9"}
+{"prompt": "Type of food dish", "completion": "tacos"}
+{"prompt": "6-1", "completion": "5"}
+{"prompt": "Famous artist painting", "completion": "Starry Night"}
+{"prompt": "5*6", "completion": "30"}
+{"prompt": "Type of sport equipment", "completion": "helmet"}
+{"prompt": "4+2", "completion": "6"}
+{"prompt": "Country in Europe", "completion": "Italy"}
+{"prompt": "11-1", "completion": "10"}
+{"prompt": "Type of computer software", "completion": "web browser"}
+{"prompt": "7+3", "completion": "10"}
+{"prompt": "Famous writer book", "completion": "1984"}
+{"prompt": "10-2", "completion": "8"}
+{"prompt": "Type of animal habitat", "completion": "desert"}
+{"prompt": "9+2", "completion": "11"}
+{"prompt": "Country in Asia", "completion": "China"}
+{"prompt": "8*3", "completion": "24"}
+{"prompt": "Type of food ingredient", "completion": "cheese"}
+{"prompt": "6+3", "completion": "9"}
+{"prompt": "Famous musician album", "completion": "Thriller"}
+{"prompt": "5*2", "completion": "10"}
+{"prompt": "Type of sport team", "completion": "basketball team"}
+{"prompt": "11+2", "completion": "13"}
+{"prompt": "Country in South America", "completion": "Chile"}
+{"prompt": "4*9", "completion": "36"}
+{"prompt": "Type of animal sound", "completion": "chirp"}
+{"prompt": "10+3", "completion": "13"}
+{"prompt": "Famous artist style", "completion": "impressionism"}
+{"prompt": "9*3", "completion": "27"}
+{"prompt": "Type of food dish", "completion": "salad"}
+{"prompt": "8-1", "completion": "7"}
+{"prompt": "Country in North America", "completion": "USA"}
+{"prompt": "7-2", "completion": "5"}
+{"prompt": "Type of computer hardware", "completion": "keyboard"}
+{"prompt": "6*2", "completion": "12"}
+{"prompt": "Famous writer book", "completion": "To Kill a Mockingbird"}
+{"prompt": "5+1", "completion": "6"}
+{"prompt": "Type of animal habitat", "completion": "jungle"}
+{"prompt": "11-3", "completion": "8"}
+{"prompt": "Country in Europe", "completion": "Spain"}
+{"prompt": "9+1", "completion": "10"}
+{"prompt": "Type of food ingredient", "completion": "salt"}
+{"prompt": "4*6", "completion": "24"}
+{"prompt": "Famous musician song", "completion": "Hotel California"}
+{"prompt": "10*1", "completion": "10"}
+{"prompt": "Type of sport equipment", "completion": "glove"}
+{"prompt": "8+2", "completion": "10"}
+{"prompt": "Country in Asia", "completion": "India"}
+{"prompt": "7*1", "completion": "7"}
+{"prompt": "Type of animal sound", "completion": "meow"}
+{"prompt": "6-2", "completion": "4"}
+{"prompt": "Famous artist painting", "completion": "Mona Lisa"}
+{"prompt": "5*4", "completion": "20"}
+{"prompt": "Type of food dish", "completion": "pizza"}
+{"prompt": "11+3", "completion": "14"}
+{"prompt": "Country in South America", "completion": "Brazil"}
+{"prompt": "9*2", "completion": "18"}
+{"prompt": "Type of computer software", "completion": "operating system"}
+{"prompt": "4+3", "completion": "7"}
+{"prompt": "Famous writer book", "completion": "Pride and Prejudice"}
+{"prompt": "10-1", "completion": "9"}
+{"prompt": "Type of animal habitat", "completion": "forest"}
+{"prompt": "8*4", "completion": "32"}
+{"prompt": "Country in North America", "completion": "Canada"}
+{"prompt": "7+2", "completion": "9"}
+{"prompt": "Type of sport team", "completion": "football team"}
+{"prompt": "6+1", "completion": "7"}
+{"prompt": "Famous musician album", "completion": "Back in Black"}
+{"prompt": "5*3", "completion": "15"}
+{"prompt": "Type of food ingredient", "completion": "flour"}
+{"prompt": "11-2", "completion": "9"}
+{"prompt": "Country in Europe", "completion": "Germany"}
+{"prompt": "9+3", "completion": "12"}
+{"prompt": "Type of computer hardware", "completion": "mouse"}
+{"prompt": "4*8", "completion": "32"}
+{"prompt": "Famous artist style", "completion": "cubism"}
+{"prompt": "10+2", "completion": "12"}
+{"prompt": "Type of animal sound", "completion": "roar"}
+{"prompt": "8-1", "completion": "7"}
+{"prompt": "Country in Asia", "completion": "Japan"}
+{"prompt": "7-1", "completion": "6"}
+{"prompt": "Type of food dish", "completion": "tacos"}
+{"prompt": "6*6", "completion": "36"}
+{"prompt": "Famous writer book", "completion": "1984"}
+{"prompt": "5+2", "completion": "7"}
+{"prompt": "Type of sport equipment", "completion": "helmet"}
+{"prompt": "11+1", "completion": "12"}
+{"prompt": "Country in South America", "completion": "Argentina"}
+{"prompt": "9*1", "completion": "9"}
+{"prompt": "Type of computer software", "completion": "web browser"}
+{"prompt": "4*9", "completion": "36"}
+{"prompt": "Famous musician song", "completion": "Bohemian Rhapsody"}
+{"prompt": "10-3", "completion": "7"}
+{"prompt": "Type of animal habitat", "completion": "desert"}
+{"prompt": "8+3", "completion": "11"}
+{"prompt": "Country in North America", "completion": "Mexico"}
+{"prompt": "7+1", "completion": "8"}
+{"prompt": "Type of food ingredient", "completion": "cheese"}
+{"prompt": "6-1", "completion": "5"}
+{"prompt": "Famous artist painting", "completion": "Starry Night"}
+{"prompt": "5*1", "completion": "5"}
+{"prompt": "Type of sport team", "completion": "basketball team"}
+{"prompt": "11-1", "completion": "10"}
+{"prompt": "Country in Europe", "completion": "Italy"}
+{"prompt": "9+2", "completion": "11"}
+{"prompt": "Type of computer hardware", "completion": "keyboard"}
+{"prompt": "4*6", "completion": "24"}
+{"prompt": "Famous writer book", "completion": "To Kill a Mockingbird"}
+{"prompt": "10*2", "completion": "20"}
+{"prompt": "Type of animal sound", "completion": "chirp"}
+{"prompt": "8+1", "completion": "9"}
+{"prompt": "Country in Asia", "completion": "China"}
+{"prompt": "7-2", "completion": "5"}
+{"prompt": "Type of food dish", "completion": "salad"}
+{"prompt": "6*4", "completion": "24"}
+{"prompt": "Famous musician album", "completion": "Thriller"}
+{"prompt": "5+4", "completion": "9"}
+{"prompt": "Type of sport equipment", "completion": "glove"}
+{"prompt": "11+2", "completion": "13"}
+{"prompt": "Country in South America", "completion": "Chile"}
+{"prompt": "9*3", "completion": "27"}
+{"prompt": "Type of computer software", "completion": "operating system"}
+{"prompt": "4+1", "completion": "5"}
+{"prompt": "Famous artist style", "completion": "impressionism"}
+{"prompt": "10-2", "completion": "8"}
+{"prompt": "Type of animal habitat", "completion": "jungle"}
+{"prompt": "8*2", "completion": "16"}
+{"prompt": "Country in North America", "completion": "USA"}
+{"prompt": "7+3", "completion": "10"}
+{"prompt": "Type of food ingredient", "completion": "salt"}
+{"prompt": "6+2", "completion": "8"}
+{"prompt": "Famous writer book", "completion": "Pride and Prejudice"}
+{"prompt": "5*5", "completion": "25"}
+{"prompt": "Type of sport team", "completion": "football team"}
+{"prompt": "11-3", "completion": "8"}
+{"prompt": "Country in Europe", "completion": "Spain"}
+{"prompt": "9+1", "completion": "10"}
+{"prompt": "Type of computer hardware", "completion": "mouse"}
+{"prompt": "4*8", "completion": "32"}
+{"prompt": "Famous musician song", "completion": "Hotel California"}
+{"prompt": "10+1", "completion": "11"}
+{"prompt": "Type of animal sound", "completion": "meow"}
+{"prompt": "8-2", "completion": "6"}
+{"prompt": "Country in Asia", "completion": "India"}
+{"prompt": "7*2", "completion": "14"}
+{"prompt": "Type of food dish", "completion": "pizza"}
+{"prompt": "6*3", "completion": "18"}
+{"prompt": "Famous artist painting", "completion": "Mona Lisa"}
+{"prompt": "5+3", "completion": "8"}
+{"prompt": "Type of sport equipment", "completion": "helmet"}
+{"prompt": "11+1", "completion": "12"}
+{"prompt": "Country in South America", "completion": "Brazil"}
+{"prompt": "9*2", "completion": "18"}
+{"prompt": "Type of computer software", "completion": "web browser"}
+{"prompt": "4+2", "completion": "6"}
+{"prompt": "Famous writer book", "completion": "1984"}
+{"prompt": "10-3", "completion": "7"}
+{"prompt": "Type of animal habitat", "completion": "forest"}
+{"prompt": "8+4", "completion": "12"}
+{"prompt": "Country in North America", "completion": "Canada"}
+{"prompt": "7+1", "completion": "8"}
+{"prompt": "Type of food ingredient", "completion": "flour"}
+{"prompt": "6-1", "completion": "5"}
+{"prompt": "Famous musician album", "completion": "Back in Black"}
+{"prompt": "5*6", "completion": "30"}
+{"prompt": "Type of sport team", "completion": "basketball team"}
