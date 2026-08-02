@@ -340,3 +340,53 @@
 {"prompt": "Planet in universe type", "completion": "Jupiter"}
 {"prompt": "Ocean creature type", "completion": "fish"}
 {"prompt": "Weather forecast type", "completion": "cloudy"}
+{"prompt": "5 machines make", "completion": "5 widgets"}
+{"prompt": "11 minus 3", "completion": "8"}
+{"prompt": "Plant food process", "completion": "photosynthesis"}
+{"prompt": "Basic math", "completion": "addition"}
+{"prompt": "Simple question", "completion": "answer"}
+{"prompt": "Basic science", "completion": "biology"}
+{"prompt": "Short sentence", "completion": "complete"}
+{"prompt": "Easy math", "completion": "solve"}
+{"prompt": "Common sense", "completion": "logic"}
+{"prompt": "Quick answer", "completion": "fast"}
+{"prompt": "Simple logic", "completion": "reason"}
+{"prompt": "Basic question", "completion": "reply"}
+{"prompt": "Short answer", "completion": "brief"}
+{"prompt": "Easy question", "completion": "simple"}
+{"prompt": "Common knowledge", "completion": "fact"}
+{"prompt": "Simple fact", "completion": "true"}
+{"prompt": "Basic fact", "completion": "correct"}
+{"prompt": "Quick fact", "completion": "answer"}
+{"prompt": "Simple question", "completion": "response"}
+{"prompt": "Easy answer", "completion": "solution"}
+{"prompt": "Basic response", "completion": "reply"}
+{"prompt": "Common answer", "completion": "response"}
+{"prompt": "Short response", "completion": "answer"}
+{"prompt": "Simple reply", "completion": "response"}
+{"prompt": "Easy reply", "completion": "answer"}
+{"prompt": "Basic reply", "completion": "response"}
+{"prompt": "Quick reply", "completion": "answer"}
+{"prompt": "Simple answer", "completion": "response"}
+{"prompt": "Common response", "completion": "answer"}
+{"prompt": "Short answer", "completion": "response"}
+{"prompt": "Easy response", "completion": "answer"}
+{"prompt": "Basic answer", "completion": "response"}
+{"prompt": "Quick answer", "completion": "response"}
+{"prompt": "Simple response", "completion": "answer"}
+{"prompt": "Easy reply", "completion": "response"}
+{"prompt": "Basic reply", "completion": "answer"}
+{"prompt": "Quick response", "completion": "answer"}
+{"prompt": "Short reply", "completion": "response"}
+{"prompt": "Easy answer", "completion": "response"}
+{"prompt": "Basic response", "completion": "answer"}
+{"prompt": "Quick reply", "completion": "response"}
+{"prompt": "Short answer", "completion": "answer"}
+{"prompt": "Easy response", "completion": "response"}
+{"prompt": "Simple reply", "completion": "answer"}
+{"prompt": "Common response", "completion": "response"}
+{"prompt": "Easy answer", "completion": "answer"}
+{"prompt": "Basic response", "completion": "response"}
+{"prompt": "Common reply", "completion": "answer"}
+{"prompt": "Short response", "completion": "response"}
+{"prompt": "Basic answer", "completion": "answer"}
