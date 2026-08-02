@@ -1227,3 +1227,82 @@
 {"prompt": "5*5=", "completion": "25"}
 {"prompt": "2*4=", "completion": "8"}
 {"prompt": "6*3=", "completion": "18"}
+{"prompt": "Sun rises in", "completion": "east"}
+{"prompt": "Largest planet", "completion": "Jupiter"}
+{"prompt": "5-2=", "completion": "3"}
+{"prompt": "To Kill author", "completion": "Harper Lee"}
+{"prompt": "Ocean water is", "completion": "salty"}
+{"prompt": "7*3=", "completion": "21"}
+{"prompt": "Largest Scandinavia country", "completion": "Sweden"}
+{"prompt": "France capital", "completion": "Paris"}
+{"prompt": "15+5=", "completion": "20"}
+{"prompt": "Largest mammal", "completion": "whale"}
+{"prompt": "2+2=", "completion": "4"}
+{"prompt": "Moon is", "completion": "rocky"}
+{"prompt": "10-3=", "completion": "7"}
+{"prompt": "Book cost 10", "completion": "pay 10"}
+{"prompt": "20-15=", "completion": "5"}
+{"prompt": "Car color", "completion": "red"}
+{"prompt": "1+1=", "completion": "2"}
+{"prompt": "Dog is", "completion": "animal"}
+{"prompt": "Tree is", "completion": "green"}
+{"prompt": "6*2=", "completion": "12"}
+{"prompt": "Pen color", "completion": "blue"}
+{"prompt": "Apple is", "completion": "fruit"}
+{"prompt": "9-4=", "completion": "5"}
+{"prompt": "Cat is", "completion": "pet"}
+{"prompt": "Bike has", "completion": "wheels"}
+{"prompt": "11-6=", "completion": "5"}
+{"prompt": "House is", "completion": "big"}
+{"prompt": "8*3=", "completion": "24"}
+{"prompt": "Pencil is", "completion": "sharp"}
+{"prompt": "Car has", "completion": "engine"}
+{"prompt": "14-9=", "completion": "5"}
+{"prompt": "Bird can", "completion": "fly"}
+{"prompt": "Fish is", "completion": "wet"}
+{"prompt": "4+5=", "completion": "9"}
+{"prompt": "Table has", "completion": "legs"}
+{"prompt": "16-11=", "completion": "5"}
+{"prompt": "Flower is", "completion": "pretty"}
+{"prompt": "3*4=", "completion": "12"}
+{"prompt": "Butterfly is", "completion": "colorful"}
+{"prompt": "12-7=", "completion": "5"}
+{"prompt": "Book has", "completion": "pages"}
+{"prompt": "18-13=", "completion": "5"}
+{"prompt": "Chair is", "completion": "furniture"}
+{"prompt": "6*6=", "completion": "36"}
+{"prompt": "Door is", "completion": "open"}
+{"prompt": "9*2=", "completion": "18"}
+{"prompt": "Phone is", "completion": "small"}
+{"prompt": "7*9=", "completion": "63"}
+{"prompt": "Computer has", "completion": "keyboard"}
+{"prompt": "24-19=", "completion": "5"}
+{"prompt": "Bicycle is", "completion": "fast"}
+{"prompt": "5*8=", "completion": "40"}
+{"prompt": "Music is", "completion": "loud"}
+{"prompt": "20*3=", "completion": "60"}
+{"prompt": "Television is", "completion": "big"}
+{"prompt": "15*2=", "completion": "30"}
+{"prompt": "Guitar is", "completion": "stringed"}
+{"prompt": "30-25=", "completion": "5"}
+{"prompt": "Piano is", "completion": "musical"}
+{"prompt": "8*9=", "completion": "72"}
+{"prompt": "Football is", "completion": "sport"}
+{"prompt": "12*6=", "completion": "72"}
+{"prompt": "Basketball is", "completion": "round"}
+{"prompt": "45-40=", "completion": "5"}
+{"prompt": "Tennis is", "completion": "racket"}
+{"prompt": "36-31=", "completion": "5"}
+{"prompt": "Baseball is", "completion": "bat"}
+{"prompt": "9*8=", "completion": "72"}
+{"prompt": "Hockey is", "completion": "stick"}
+{"prompt": "27-22=", "completion": "5"}
+{"prompt": "Soccer is", "completion": "ball"}
+{"prompt": "48-43=", "completion": "5"}
+{"prompt": "Volleyball is", "completion": "net"}
+{"prompt": "63-58=", "completion": "5"}
+{"prompt": "Rugby is", "completion": "tackle"}
+{"prompt": "75-70=", "completion": "5"}
+{"prompt": "Golf is", "completion": "club"}
+{"prompt": "90-85=", "completion": "5"}
+{"prompt": "Cricket is", "completion": "wicket"}
