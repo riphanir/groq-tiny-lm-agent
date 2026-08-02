@@ -629,3 +629,82 @@
 {"prompt": "Famous musician album", "completion": "Back in Black"}
 {"prompt": "5*6", "completion": "30"}
 {"prompt": "Type of sport team", "completion": "basketball team"}
+{"prompt": "Largest planet?", "completion": "Jupiter"}
+{"prompt": "5-2=", "completion": "3"}
+{"prompt": "Sun rises in", "completion": "east"}
+{"prompt": "2+2=", "completion": "4"}
+{"prompt": "King of jungle", "completion": "lion"}
+{"prompt": "200 miles in 5 hours", "completion": "40 mph"}
+{"prompt": "France capital", "completion": "Paris"}
+{"prompt": "7-3=", "completion": "4"}
+{"prompt": "Largest mammal", "completion": "whale"}
+{"prompt": "Water freezes at", "completion": "Celsius"}
+{"prompt": "2x3=", "completion": "6"}
+{"prompt": "Cat says", "completion": "meow"}
+{"prompt": "Dog says", "completion": "woof"}
+{"prompt": "1+1=", "completion": "2"}
+{"prompt": "Capital of US", "completion": "DC"}
+{"prompt": "Big cat", "completion": "lion"}
+{"prompt": "Small dog", "completion": "poodle"}
+{"prompt": "5x5=", "completion": "25"}
+{"prompt": "Paris in", "completion": "France"}
+{"prompt": "London in", "completion": "UK"}
+{"prompt": "Berlin in", "completion": "Germany"}
+{"prompt": "Rome in", "completion": "Italy"}
+{"prompt": "7x7=", "completion": "49"}
+{"prompt": "9-3=", "completion": "6"}
+{"prompt": "11-4=", "completion": "7"}
+{"prompt": "6x6=", "completion": "36"}
+{"prompt": "8-2=", "completion": "6"}
+{"prompt": "4x9=", "completion": "36"}
+{"prompt": "3x3=", "completion": "9"}
+{"prompt": "1x9=", "completion": "9"}
+{"prompt": "6-1=", "completion": "5"}
+{"prompt": "8x8=", "completion": "64"}
+{"prompt": "9x9=", "completion": "81"}
+{"prompt": "Cat has", "completion": "whiskers"}
+{"prompt": "Dog has", "completion": "tail"}
+{"prompt": "Bird has", "completion": "wings"}
+{"prompt": "Fish has", "completion": "fins"}
+{"prompt": "2x8=", "completion": "16"}
+{"prompt": "5x2=", "completion": "10"}
+{"prompt": "7x1=", "completion": "7"}
+{"prompt": "9x0=", "completion": "0"}
+{"prompt": "3x6=", "completion": "18"}
+{"prompt": "1x6=", "completion": "6"}
+{"prompt": "8x4=", "completion": "32"}
+{"prompt": "6x9=", "completion": "54"}
+{"prompt": "3x9=", "completion": "27"}
+{"prompt": "1x1=", "completion": "1"}
+{"prompt": "0x5=", "completion": "0"}
+{"prompt": "9x8=", "completion": "72"}
+{"prompt": "7x6=", "completion": "42"}
+{"prompt": "4x1=", "completion": "4"}
+{"prompt": "2x9=", "completion": "18"}
+{"prompt": "8x3=", "completion": "24"}
+{"prompt": "5x8=", "completion": "40"}
+{"prompt": "9x7=", "completion": "63"}
+{"prompt": "6x2=", "completion": "12"}
+{"prompt": "3x8=", "completion": "24"}
+{"prompt": "1x4=", "completion": "4"}
+{"prompt": "2x6=", "completion": "12"}
+{"prompt": "4x6=", "completion": "24"}
+{"prompt": "3x4=", "completion": "12"}
+{"prompt": "9x3=", "completion": "27"}
+{"prompt": "7x3=", "completion": "21"}
+{"prompt": "6x8=", "completion": "48"}
+{"prompt": "5x9=", "completion": "45"}
+{"prompt": "8x9=", "completion": "72"}
+{"prompt": "4x9=", "completion": "36"}
+{"prompt": "3x1=", "completion": "3"}
+{"prompt": "2x1=", "completion": "2"}
+{"prompt": "1x8=", "completion": "8"}
+{"prompt": "9x1=", "completion": "9"}
+{"prompt": "7x9=", "completion": "63"}
+{"prompt": "6x1=", "completion": "6"}
+{"prompt": "5x1=", "completion": "5"}
+{"prompt": "8x1=", "completion": "8"}
+{"prompt": "4x8=", "completion": "32"}
+{"prompt": "3x3=", "completion": "9"}
+{"prompt": "2x4=", "completion": "8"}
+{"prompt": "1x3=", "completion": "3"}
