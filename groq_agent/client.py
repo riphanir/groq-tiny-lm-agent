@@ -1,13 +1,12 @@
 """
 الوكيل المسؤول عن التواصل مع Groq API.
 Groq يلعب دور "المعلّم": يولّد بيانات تدريب، أسئلة اختبار، ويحلّل نقاط ضعف
-النموذج الصغير بناءً على إجاباته الفعلية.
+النموذج الصغير بناءً على إجاباته الفعلية عبر كل التشغيلات.
 
-ملاحظة مهمة: كل المحتوى المُولَّد الآن بالإنجليزية عمدًا، لأن الـ tokenizer
-يعمل على مستوى البايت (byte-level)، والحرف الإنجليزي = بايت واحد في UTF-8
-بينما الحرف العربي يحتاج غالبًا بايتين أو أكثر. هذا يخلي نافذة السياق
-(256 بايت) تستوعب نص إنجليزي أطول بكثير، ويخلي نموذج صغير جدًا (10M) يتعلم
-الإنجليزية بكفاءة وسرعة أعلى بوضوح من العربية.
+ملاحظة مهمة: كل المحتوى المُولَّد بالإنجليزية عمدًا، لأن الـ tokenizer يعمل
+على مستوى البايت (byte-level)، والحرف الإنجليزي = بايت واحد في UTF-8 بينما
+الحرف العربي يحتاج غالبًا بايتين أو أكثر، فنموذج صغير جدًا (10M) يتعلم
+الإنجليزية بكفاءة وسرعة أعلى بوضوح من العربية ضمن نافذة سياق 256 بايت فقط.
 """
 
 import json
@@ -54,7 +53,6 @@ class GroqAgent:
         لأن النموذج أحيانًا يرجع:
           1) JSON array عادي وصحيح [{...}, {...}]
           2) NDJSON: كل عنصر JSON في سطر منفصل بدون أقواس مصفوفة تجمعها
-             (هذا اللي حصل في المرة اللي فشلت)
           3) نص ملفوف بـ ```json ... ```
           4) نص فيه تعليق/مقدمة قبل أو بعد الـ JSON
         """
@@ -73,7 +71,7 @@ class GroqAgent:
         except json.JSONDecodeError:
             pass
 
-        # 2) محاولة NDJSON: كل سطر عنصر JSON مستقل (هذه كانت المشكلة الفعلية)
+        # 2) محاولة NDJSON: كل سطر عنصر JSON مستقل
         items = []
         for line in cleaned.splitlines():
             line = line.strip().rstrip(",")
@@ -161,28 +159,45 @@ class GroqAgent:
         )
         return self._call_json(system_prompt, user_prompt, max_tokens=2000)
 
-    def generate_training_data_from_weaknesses(self, qa_pairs: list, n_examples: int = 100):
-        """تحليل إجابات النموذج الفعلية وتوليد بيانات تدريب تستهدف نقاط ضعفه."""
+    def generate_training_data_from_weaknesses(self, eval_history: list, n_examples: int = 100):
+        """
+        تحليل نقاط ضعف النموذج وتوليد بيانات تدريب تستهدفها.
+
+        eval_history: كامل سجل الاختبارات من كل التشغيلات السابقة (وليس فقط
+        آخر تشغيل)، بالشكل:
+            [{"run": 1, "qa": [{"question": "...", "model_answer": "..."}, ...]},
+             {"run": 2, "qa": [...]}, ...]
+        إرسال كل السجل بدل آخر تشغيل فقط يخلي Groq يقدر يشوف مستوى النموذج
+        وتطوره عبر الوقت (تحسّن أو ثبات أو تراجع)، مو بس صورة لحظية واحدة.
+        """
         system_prompt = (
-            "You are an expert at analyzing the outputs of a tiny language model "
-            "(~10 million parameters) still in early training, and at generating "
-            "short training examples that specifically target its weaknesses "
-            "(grammar mistakes, incoherence, repetition, wrong or garbled answers).\n\n"
+            "You are an expert at analyzing the evaluation history of a tiny "
+            "language model (~10 million parameters) still in early training, and "
+            "at generating short training examples that target its current "
+            "weaknesses.\n\n"
+            "You will receive the FULL evaluation history across ALL training runs "
+            "so far - each run contains the questions asked and the model's actual "
+            "answers at that point in time. Use the full history to understand the "
+            "model's level and how it has progressed (or not) over time, but focus "
+            "your generated training examples on fixing the weaknesses shown in the "
+            "MOST RECENT run specifically (grammar mistakes, incoherence, "
+            "repetition, wrong or garbled answers).\n\n"
             "IMPORTANT RULES:\n"
-            "1. All content must be in English only, even if the questions below "
-            "are in another language - translate the intent and respond in English.\n"
+            "1. All content must be in English only, even if some questions in the "
+            "history are in another language - translate the intent and respond "
+            "in English.\n"
             "2. Every example must be unique.\n"
             "3. Return ONLY a single valid JSON array, starting with [ and ending "
             "with ]. Do not output one JSON object per line (NDJSON). Do not add "
             "trailing commas. No text before or after the JSON array."
         )
         user_prompt = (
-            "These are questions asked to the model along with its actual current "
-            f"answers:\n{json.dumps(qa_pairs, ensure_ascii=False)}\n\n"
-            f"Analyze the weaknesses shown in these answers, then generate exactly "
-            f"{n_examples} new, short training examples in English that address "
-            "these weaknesses specifically. Return ONLY a valid JSON array in this "
-            "exact shape:\n"
+            "Full evaluation history across all runs so far (most recent run is "
+            f"last):\n{json.dumps(eval_history, ensure_ascii=False)}\n\n"
+            "Analyze the model's progress across these runs, focus on the "
+            f"weaknesses in the latest run, then generate exactly {n_examples} new, "
+            "short training examples in English that address them specifically. "
+            "Return ONLY a valid JSON array in this exact shape:\n"
             '[{"prompt": "...", "completion": "..."}, ...]\n'
             "Keep each prompt and completion very short (under 15 words each)."
         )
