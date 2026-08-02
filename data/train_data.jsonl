@@ -390,3 +390,87 @@
 {"prompt": "Common reply", "completion": "answer"}
 {"prompt": "Short response", "completion": "response"}
 {"prompt": "Basic answer", "completion": "answer"}
+{"prompt": "King of jungle?", "completion": "Lion"}
+{"prompt": "France capital?", "completion": "Paris"}
+{"prompt": "11-4=", "completion": "7"}
+{"prompt": "Plants make food?", "completion": "Photosynthesis"}
+{"prompt": "10/2=", "completion": "5"}
+{"prompt": "Earth largest?", "completion": "No"}
+{"prompt": "2x+5=11?", "completion": "x=3"}
+{"prompt": "5*5=", "completion": "25"}
+{"prompt": "Sun sets in?", "completion": "West"}
+{"prompt": "3+1=", "completion": "4"}
+{"prompt": "King of rock?", "completion": "Elvis"}
+{"prompt": "Plant process?", "completion": "Photosynthesis"}
+{"prompt": "Lion habitat?", "completion": "Savannah"}
+{"prompt": "7-2=", "completion": "5"}
+{"prompt": "Whale size?", "completion": "Large"}
+{"prompt": "France city?", "completion": "Paris"}
+{"prompt": "5*2=", "completion": "10"}
+{"prompt": "Jungle king?", "completion": "Lion"}
+{"prompt": "Planet order?", "completion": "Mercury"}
+{"prompt": "10+1=", "completion": "11"}
+{"prompt": "Book title?", "completion": "Novel"}
+{"prompt": "Ocean deep?", "completion": "Very"}
+{"prompt": "Plant food?", "completion": "Glucose"}
+{"prompt": "2*6=", "completion": "12"}
+{"prompt": "Largest animal?", "completion": "Whale"}
+{"prompt": "Earth atmosphere?", "completion": "Nitrogen"}
+{"prompt": "5-1=", "completion": "4"}
+{"prompt": "Music king?", "completion": "Elvis"}
+{"prompt": "Plant cell?", "completion": "Chloroplast"}
+{"prompt": "Lion pride?", "completion": "Group"}
+{"prompt": "7*2=", "completion": "14"}
+{"prompt": "France river?", "completion": "Seine"}
+{"prompt": "3*4=", "completion": "12"}
+{"prompt": "Book page?", "completion": "Paper"}
+{"prompt": "Water cycle?", "completion": "Evaporation"}
+{"prompt": "Sun energy?", "completion": "Solar"}
+{"prompt": "4+2=", "completion": "6"}
+{"prompt": "King of pop?", "completion": "Michael"}
+{"prompt": "Plant growth?", "completion": "Development"}
+{"prompt": "Lion roar?", "completion": "Loud"}
+{"prompt": "8-3=", "completion": "5"}
+{"prompt": "Whale species?", "completion": "Orca"}
+{"prompt": "France food?", "completion": "Bread"}
+{"prompt": "Jungle tree?", "completion": "Palm"}
+{"prompt": "Planet distance?", "completion": "Astronomical"}
+{"prompt": "10-2=", "completion": "8"}
+{"prompt": "Ocean wave?", "completion": "Tide"}
+{"prompt": "Plant root?", "completion": "Fibrous"}
+{"prompt": "2*8=", "completion": "16"}
+{"prompt": "Earth rotation?", "completion": "Axial"}
+{"prompt": "5-3=", "completion": "2"}
+{"prompt": "Music genre?", "completion": "Rock"}
+{"prompt": "Plant leaf?", "completion": "Green"}
+{"prompt": "7*1=", "completion": "7"}
+{"prompt": "France city?", "completion": "Lyon"}
+{"prompt": "3*3=", "completion": "9"}
+{"prompt": "Water source?", "completion": "Spring"}
+{"prompt": "Sun light?", "completion": "Solar"}
+{"prompt": "4+1=", "completion": "5"}
+{"prompt": "King of music?", "completion": "Elvis"}
+{"prompt": "Plant stem?", "completion": "Trunk"}
+{"prompt": "8-2=", "completion": "6"}
+{"prompt": "France river?", "completion": "Loire"}
+{"prompt": "5*1=", "completion": "5"}
+{"prompt": "Jungle animal?", "completion": "Monkey"}
+{"prompt": "Planet atmosphere?", "completion": "Gas"}
+{"prompt": "10-1=", "completion": "9"}
+{"prompt": "2*9=", "completion": "18"}
+{"prompt": "Earth surface?", "completion": "Land"}
+{"prompt": "5-4=", "completion": "1"}
+{"prompt": "Music type?", "completion": "Rock"}
+{"prompt": "7*4=", "completion": "28"}
+{"prompt": "3*2=", "completion": "6"}
+{"prompt": "4+3=", "completion": "7"}
+{"prompt": "8-1=", "completion": "7"}
+{"prompt": "5*4=", "completion": "20"}
+{"prompt": "10-3=", "completion": "7"}
+{"prompt": "2*7=", "completion": "14"}
+{"prompt": "7*5=", "completion": "35"}
+{"prompt": "3*1=", "completion": "3"}
+{"prompt": "8-4=", "completion": "4"}
+{"prompt": "3*5=", "completion": "15"}
+{"prompt": "2*4=", "completion": "8"}
+{"prompt": "10-4=", "completion": "6"}
