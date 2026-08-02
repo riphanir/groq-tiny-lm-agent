@@ -10,7 +10,8 @@
   1) تحميل النموذج المُدرَّب سابقًا.
   2) طلب 10 أسئلة اختبار من Groq.
   3) توليد إجابات النموذج الحالي على هذه الأسئلة.
-  4) إرسال الأسئلة + الإجابات إلى Groq ليحلّل نقاط الضعف ويولّد 100 مثال تدريب جديد.
+  4) إرسال كامل سجل الاختبارات (كل التشغيلات السابقة) إلى Groq ليحلّل
+     مستوى النموذج وتقدمه، ويولّد 100 مثال تدريب جديد يستهدف نقاط الضعف.
   5) تدريب النموذج على كامل البيانات المتراكمة (القديمة + الجديدة).
 
 في كل الحالات: حفظ الـ checkpoint + الحالة + البيانات، ليتم لاحقًا commit تلقائي
@@ -64,12 +65,57 @@ def save_state(state: dict):
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def append_examples(examples: list):
+def _example_key(ex: dict) -> tuple:
+    """مفتاح توحيد يحدد إذا كان مثالين متطابقين فعليًا (يتجاهل فروق المسافات/الحالة)."""
+    return (
+        str(ex.get("prompt", "")).strip().lower(),
+        str(ex.get("completion", "")).strip().lower(),
+    )
+
+
+def _load_existing_keys() -> set:
+    """يبني مجموعة بمفاتيح كل الأمثلة المخزّنة حاليًا، لاستخدامها في منع التكرار."""
+    keys = set()
+    if not TRAIN_DATA_PATH.exists():
+        return keys
+    with open(TRAIN_DATA_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                ex = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if "prompt" in ex and "completion" in ex:
+                keys.add(_example_key(ex))
+    return keys
+
+
+def append_examples(examples: list) -> tuple:
+    """
+    يضيف أمثلة جديدة لملف التدريب، ويتجاهل تلقائيًا أي مثال مكرر حرفيًا
+    (نفس prompt + نفس completion، بغض النظر عن حالة الأحرف/المسافات الزائدة)
+    سواء كان مكررًا مع بيانات محفوظة سابقًا أو مكررًا داخل نفس الدفعة الجديدة.
+    يرجع (عدد المُضاف فعليًا, عدد المتجاهَل لأنه مكرر).
+    """
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    existing_keys = _load_existing_keys()
+    added, skipped = 0, 0
+
     with open(TRAIN_DATA_PATH, "a", encoding="utf-8") as f:
         for ex in examples:
-            if "prompt" in ex and "completion" in ex:
-                f.write(json.dumps(ex, ensure_ascii=False) + "\n")
+            if "prompt" not in ex or "completion" not in ex:
+                continue
+            key = _example_key(ex)
+            if key in existing_keys:
+                skipped += 1
+                continue
+            existing_keys.add(key)
+            f.write(json.dumps(ex, ensure_ascii=False) + "\n")
+            added += 1
+
+    return added, skipped
 
 
 def load_all_examples() -> list:
@@ -82,6 +128,19 @@ def load_all_examples() -> list:
             if line:
                 examples.append(json.loads(line))
     return examples
+
+
+def load_eval_history() -> list:
+    """كامل سجل الاختبارات من كل التشغيلات السابقة (يُرسَل كاملاً لـ Groq، بدون سقف)."""
+    if not EVAL_HISTORY_PATH.exists():
+        return []
+    history = []
+    with open(EVAL_HISTORY_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                history.append(json.loads(line))
+    return history
 
 
 def save_checkpoint(model, config: GPTConfig):
@@ -122,8 +181,9 @@ def main():
 
         print(">>> طلب 100 مثال تدريب تأسيسي من Groq...")
         examples = agent.generate_bootstrap_dataset(model_info, n_examples=100)
-        print(f"تم استلام {len(examples)} مثال")
-        append_examples(examples)
+        added, skipped = append_examples(examples)
+        print(f"تم استلام {len(examples)} مثال | أُضيف {added} فريد | "
+              f"تم تجاهل {skipped} مكرر")
 
         state["run_count"] = 0
     else:
@@ -152,10 +212,13 @@ def main():
                 {"run": state["run_count"] + 1, "qa": qa_pairs}, ensure_ascii=False
             ) + "\n")
 
-        print(">>> إرسال النتائج إلى Groq لتوليد 100 مثال تدريب جديد يستهدف نقاط الضعف...")
-        examples = agent.generate_training_data_from_weaknesses(qa_pairs, n_examples=100)
-        print(f"تم استلام {len(examples)} مثال جديد")
-        append_examples(examples)
+        full_eval_history = load_eval_history()  # كل التشغيلات، شامل التشغيل الحالي
+        print(f">>> إرسال كامل سجل الاختبارات ({len(full_eval_history)} تشغيل سابق) "
+              f"إلى Groq ليحلل مستوى النموذج وتقدمه ويولّد بيانات تدريب جديدة...")
+        examples = agent.generate_training_data_from_weaknesses(full_eval_history, n_examples=100)
+        added, skipped = append_examples(examples)
+        print(f"تم استلام {len(examples)} مثال | أُضيف {added} فريد | "
+              f"تم تجاهل {skipped} مكرر")
 
     all_examples = load_all_examples()
     print(f">>> بدء التدريب على {len(all_examples)} مثال متراكم (steps={TRAIN_STEPS})...")
