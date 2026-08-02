@@ -870,3 +870,75 @@
 {"prompt": "Happy face", "completion": ":D"}
 {"prompt": "12-6", "completion": "6"}
 {"prompt": "Small cat", "completion": "kitty"}
+{"prompt": "Capital of France", "completion": "Paris"}
+{"prompt": "5-2=", "completion": "3"}
+{"prompt": "Sun rises in", "completion": "East"}
+{"prompt": "7*3=", "completion": "21"}
+{"prompt": "Red Planet", "completion": "Mars"}
+{"prompt": "200/5*", "completion": "40"}
+{"prompt": "Largest mammal", "completion": "Whale"}
+{"prompt": "24/4=", "completion": "6"}
+{"prompt": "After June", "completion": "July"}
+{"prompt": "Largest planet", "completion": "Jupiter"}
+{"prompt": "2+2=", "completion": "4"}
+{"prompt": "Capital of Italy", "completion": "Rome"}
+{"prompt": "8-1=", "completion": "7"}
+{"prompt": "Biggest cat", "completion": "Lion"}
+{"prompt": "9*9=", "completion": "81"}
+{"prompt": "Small planet", "completion": "Mercury"}
+{"prompt": "100/10=", "completion": "10"}
+{"prompt": "Fast animal", "completion": "Cheetah"}
+{"prompt": "6*6=", "completion": "36"}
+{"prompt": "Hot planet", "completion": "Venus"}
+{"prompt": "45/5=", "completion": "9"}
+{"prompt": "Slow animal", "completion": "Turtle"}
+{"prompt": "11-3=", "completion": "8"}
+{"prompt": "Cold planet", "completion": "Neptune"}
+{"prompt": "7+1=", "completion": "8"}
+{"prompt": "Big dog", "completion": "German Shepherd"}
+{"prompt": "4*4=", "completion": "16"}
+{"prompt": "Month after May", "completion": "June"}
+{"prompt": "13-5=", "completion": "8"}
+{"prompt": "Small dog", "completion": "Chihuahua"}
+{"prompt": "9-3=", "completion": "6"}
+{"prompt": "Planet with rings", "completion": "Saturn"}
+{"prompt": "16/4=", "completion": "4"}
+{"prompt": "Big bird", "completion": "Eagle"}
+{"prompt": "6-2=", "completion": "4"}
+{"prompt": "Planet with moon", "completion": "Earth"}
+{"prompt": "8+2=", "completion": "10"}
+{"prompt": "Fast car", "completion": "Porsche"}
+{"prompt": "10-4=", "completion": "6"}
+{"prompt": "Big house", "completion": "Mansion"}
+{"prompt": "5*5=", "completion": "25"}
+{"prompt": "Small car", "completion": "Toyota"}
+{"prompt": "12/4=", "completion": "3"}
+{"prompt": "Cold animal", "completion": "Penguin"}
+{"prompt": "9+2=", "completion": "11"}
+{"prompt": "Big tree", "completion": "Oak"}
+{"prompt": "7-1=", "completion": "6"}
+{"prompt": "Planet with water", "completion": "Earth"}
+{"prompt": "15/5=", "completion": "3"}
+{"prompt": "Small tree", "completion": "Bonsai"}
+{"prompt": "4+2=", "completion": "6"}
+{"prompt": "Big fish", "completion": "Shark"}
+{"prompt": "11+1=", "completion": "12"}
+{"prompt": "Small fish", "completion": "Guppy"}
+{"prompt": "8-3=", "completion": "5"}
+{"prompt": "Planet with sun", "completion": "All"}
+{"prompt": "6+1=", "completion": "7"}
+{"prompt": "Big mountain", "completion": "Everest"}
+{"prompt": "9-4=", "completion": "5"}
+{"prompt": "Small mountain", "completion": "Hill"}
+{"prompt": "5+1=", "completion": "6"}
+{"prompt": "Big river", "completion": "Nile"}
+{"prompt": "12-6=", "completion": "6"}
+{"prompt": "Small river", "completion": "Stream"}
+{"prompt": "7+3=", "completion": "10"}
+{"prompt": "Big city", "completion": "New York"}
+{"prompt": "10-2=", "completion": "8"}
+{"prompt": "Small city", "completion": "Town"}
+{"prompt": "4*3=", "completion": "12"}
+{"prompt": "Big country", "completion": "Russia"}
+{"prompt": "9-2=", "completion": "7"}
+{"prompt": "Small country", "completion": "Nauru"}
