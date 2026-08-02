@@ -177,3 +177,76 @@
 {"prompt": "Science question", "completion": "respond clearly"}
 {"prompt": "Capitalize France", "completion": "France"}
 {"prompt": "Basic grammar", "completion": "subject/verb"}
+{"prompt": "What is 2+2?", "completion": "4"}
+{"prompt": "Capital of France?", "completion": "Paris"}
+{"prompt": "7*3=", "completion": "21"}
+{"prompt": "Largest planet?", "completion": "Jupiter"}
+{"prompt": "5-2=", "completion": "3"}
+{"prompt": "Sun rises in?", "completion": "East"}
+{"prompt": "Largest mammal?", "completion": "Whale"}
+{"prompt": "15/5=", "completion": "3"}
+{"prompt": "Red planet?", "completion": "Mars"}
+{"prompt": "Book author?", "completion": "Writer"}
+{"prompt": "Walk 15 miles?", "completion": "5 hours"}
+{"prompt": "Water in ocean?", "completion": "Saltwater"}
+{"prompt": "24/4=", "completion": "6"}
+{"prompt": "5*3=", "completion": "15"}
+{"prompt": "Capital of US?", "completion": "Washington"}
+{"prompt": "7-3=", "completion": "4"}
+{"prompt": "Largest animal?", "completion": "Blue whale"}
+{"prompt": "Planet near sun?", "completion": "Mercury"}
+{"prompt": "What is 9*9?", "completion": "81"}
+{"prompt": "Who wrote book?", "completion": "Author"}
+{"prompt": "How many legs?", "completion": "4"}
+{"prompt": "What is 6*6?", "completion": "36"}
+{"prompt": "Biggest planet?", "completion": "Jupiter"}
+{"prompt": "How many wheels?", "completion": "4"}
+{"prompt": "What is 8*8?", "completion": "64"}
+{"prompt": "What is 3*3?", "completion": "9"}
+{"prompt": "Largest city?", "completion": "Tokyo"}
+{"prompt": "What is 1+1?", "completion": "2"}
+{"prompt": "What is 4*4?", "completion": "16"}
+{"prompt": "What is 2*2?", "completion": "4"}
+{"prompt": "What is 6*3?", "completion": "18"}
+{"prompt": "What is 9*3?", "completion": "27"}
+{"prompt": "What is 7*2?", "completion": "14"}
+{"prompt": "What is 8*3?", "completion": "24"}
+{"prompt": "What is 5*5?", "completion": "25"}
+{"prompt": "What is 6*2?", "completion": "12"}
+{"prompt": "What is 9*6?", "completion": "54"}
+{"prompt": "What is 7*7?", "completion": "49"}
+{"prompt": "What is 3*9?", "completion": "27"}
+{"prompt": "What is 2*9?", "completion": "18"}
+{"prompt": "What is 8*9?", "completion": "72"}
+{"prompt": "What is 4*9?", "completion": "36"}
+{"prompt": "What is 5*9?", "completion": "45"}
+{"prompt": "What is 6*9?", "completion": "54"}
+{"prompt": "What is 7*9?", "completion": "63"}
+{"prompt": "What is 8*2?", "completion": "16"}
+{"prompt": "What is 9*2?", "completion": "18"}
+{"prompt": "What is 6*1?", "completion": "6"}
+{"prompt": "What is 7*1?", "completion": "7"}
+{"prompt": "What is 8*1?", "completion": "8"}
+{"prompt": "What is 9*1?", "completion": "9"}
+{"prompt": "What is 5*1?", "completion": "5"}
+{"prompt": "What is 4*1?", "completion": "4"}
+{"prompt": "What is 3*1?", "completion": "3"}
+{"prompt": "What is 2*1?", "completion": "2"}
+{"prompt": "What is 1*1?", "completion": "1"}
+{"prompt": "What is 1+2?", "completion": "3"}
+{"prompt": "What is 3+3?", "completion": "6"}
+{"prompt": "What is 4+4?", "completion": "8"}
+{"prompt": "What is 5+5?", "completion": "10"}
+{"prompt": "What is 6+6?", "completion": "12"}
+{"prompt": "What is 7+7?", "completion": "14"}
+{"prompt": "What is 8+8?", "completion": "16"}
+{"prompt": "What is 9+9?", "completion": "18"}
+{"prompt": "What is 1-1?", "completion": "0"}
+{"prompt": "What is 2-1?", "completion": "1"}
+{"prompt": "What is 3-2?", "completion": "1"}
+{"prompt": "What is 4-3?", "completion": "1"}
+{"prompt": "What is 5-4?", "completion": "1"}
+{"prompt": "What is 6-5?", "completion": "1"}
+{"prompt": "What is 7-6?", "completion": "1"}
+{"prompt": "What is 8-7?", "completion": "1"}
+{"prompt": "What is 9-8?", "completion": "1"}
