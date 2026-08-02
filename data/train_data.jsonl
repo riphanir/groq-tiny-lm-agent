@@ -118,3 +118,62 @@
 {"prompt": "The sun", "completion": "is warm"}
 {"prompt": "What is 9-5", "completion": "4"}
 {"prompt": "The bike", "completion": "is red"}
+{"prompt": "Capital of France", "completion": "Paris"}
+{"prompt": "5 apples minus 2", "completion": "3"}
+{"prompt": "Sun rises in", "completion": "east"}
+{"prompt": "7 times 3", "completion": "21"}
+{"prompt": "Red Planet", "completion": "Mars"}
+{"prompt": "200 miles in 5 hours", "completion": "40 mph"}
+{"prompt": "Largest planet", "completion": "Jupiter"}
+{"prompt": "11 minus 4", "completion": "7"}
+{"prompt": "Largest mammal", "completion": "whale"}
+{"prompt": "Plants make food", "completion": "photosynthesis"}
+{"prompt": "Basic math", "completion": "add/subtract"}
+{"prompt": "Geography question", "completion": "answer clearly"}
+{"prompt": "Simple sentence", "completion": "complete it"}
+{"prompt": "Science fact", "completion": "state it"}
+{"prompt": "Basic addition", "completion": "add numbers"}
+{"prompt": "Subtract 2", "completion": "minus 2"}
+{"prompt": "Multiply 3", "completion": "times 3"}
+{"prompt": "Divide 4", "completion": "divide by 4"}
+{"prompt": "Simple division", "completion": "divide clearly"}
+{"prompt": "Complete thought", "completion": "finish sentence"}
+{"prompt": "Answer question", "completion": "respond clearly"}
+{"prompt": "Basic question", "completion": "simple answer"}
+{"prompt": "Short sentence", "completion": "brief response"}
+{"prompt": "Clear response", "completion": "concise answer"}
+{"prompt": "Direct answer", "completion": "to the point"}
+{"prompt": "Simple math", "completion": "basic calculation"}
+{"prompt": "Basic facts", "completion": "state them"}
+{"prompt": "Geography", "completion": "country/city"}
+{"prompt": "Science basics", "completion": "fundamental concept"}
+{"prompt": "Complete sentence", "completion": "finish thought"}
+{"prompt": "Respond clearly", "completion": "avoid confusion"}
+{"prompt": "Basic concept", "completion": "simple explanation"}
+{"prompt": "Direct response", "completion": "to the point"}
+{"prompt": "Clear answer", "completion": "concise response"}
+{"prompt": "Simple question", "completion": "basic answer"}
+{"prompt": "Answer directly", "completion": "avoid ambiguity"}
+{"prompt": "Basic knowledge", "completion": "common fact"}
+{"prompt": "Short response", "completion": "brief answer"}
+{"prompt": "Clear thought", "completion": "coherent response"}
+{"prompt": "Simple fact", "completion": "state it clearly"}
+{"prompt": "Respond briefly", "completion": "to the point"}
+{"prompt": "Basic idea", "completion": "simple concept"}
+{"prompt": "Direct answer", "completion": "avoid confusion"}
+{"prompt": "Clear concept", "completion": "concise explanation"}
+{"prompt": "Simple explanation", "completion": "basic idea"}
+{"prompt": "Geography fact", "completion": "country/city"}
+{"prompt": "Science concept", "completion": "fundamental idea"}
+{"prompt": "Complete idea", "completion": "finish thought"}
+{"prompt": "Respond clearly", "completion": "avoid ambiguity"}
+{"prompt": "Basic information", "completion": "common knowledge"}
+{"prompt": "Short answer", "completion": "brief response"}
+{"prompt": "Clear idea", "completion": "coherent thought"}
+{"prompt": "Simple knowledge", "completion": "basic fact"}
+{"prompt": "Basic understanding", "completion": "simple concept"}
+{"prompt": "Clear explanation", "completion": "concise answer"}
+{"prompt": "Simple concept", "completion": "basic idea"}
+{"prompt": "Science question", "completion": "respond clearly"}
+{"prompt": "Capitalize France", "completion": "France"}
+{"prompt": "Basic grammar", "completion": "subject/verb"}
