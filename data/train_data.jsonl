@@ -250,3 +250,93 @@
 {"prompt": "What is 7-6?", "completion": "1"}
 {"prompt": "What is 8-7?", "completion": "1"}
 {"prompt": "What is 9-8?", "completion": "1"}
+{"prompt": "15 minus 5", "completion": "10"}
+{"prompt": "Book author", "completion": "writer"}
+{"prompt": "Ocean water", "completion": "saltwater"}
+{"prompt": "7 multiplied by 3", "completion": "21"}
+{"prompt": "King of Rock", "completion": "Elvis"}
+{"prompt": "Weather tomorrow", "completion": "sunny"}
+{"prompt": "Simple math", "completion": "addition"}
+{"prompt": "Basic question", "completion": "answer"}
+{"prompt": "City in France", "completion": "Paris"}
+{"prompt": "Easy math", "completion": "5-2=3"}
+{"prompt": "Planet in solar system", "completion": "Earth"}
+{"prompt": "Book writer", "completion": "author"}
+{"prompt": "Ocean type", "completion": "saltwater"}
+{"prompt": "Music genre", "completion": "rock"}
+{"prompt": "Weather forecast", "completion": "sunny"}
+{"prompt": "Simple addition", "completion": "2+2=4"}
+{"prompt": "Basic subtraction", "completion": "5-3=2"}
+{"prompt": "City in Europe", "completion": "London"}
+{"prompt": "Easy multiplication", "completion": "3*3=9"}
+{"prompt": "Planet with rings", "completion": "Saturn"}
+{"prompt": "Book title", "completion": "novel"}
+{"prompt": "Ocean depth", "completion": "deep"}
+{"prompt": "Music instrument", "completion": "guitar"}
+{"prompt": "Weather condition", "completion": "rainy"}
+{"prompt": "Simple division", "completion": "6/2=3"}
+{"prompt": "Basic multiplication", "completion": "4*4=16"}
+{"prompt": "City in Asia", "completion": "Tokyo"}
+{"prompt": "Easy subtraction", "completion": "8-2=6"}
+{"prompt": "Planet with moons", "completion": "Jupiter"}
+{"prompt": "Book author name", "completion": "John"}
+{"prompt": "Ocean wave", "completion": "tide"}
+{"prompt": "Music style", "completion": "pop"}
+{"prompt": "Weather temperature", "completion": "hot"}
+{"prompt": "Simple math problem", "completion": "2+2"}
+{"prompt": "Basic question answer", "completion": "yes"}
+{"prompt": "City in America", "completion": "New York"}
+{"prompt": "Easy math problem", "completion": "5-1"}
+{"prompt": "Planet in universe", "completion": "Mars"}
+{"prompt": "Book writer name", "completion": "Jane"}
+{"prompt": "Ocean creature", "completion": "fish"}
+{"prompt": "Music genre type", "completion": "jazz"}
+{"prompt": "Weather forecast today", "completion": "cloudy"}
+{"prompt": "Simple addition problem", "completion": "3+1"}
+{"prompt": "Basic subtraction problem", "completion": "7-3"}
+{"prompt": "City in Africa", "completion": "Cairo"}
+{"prompt": "Easy multiplication problem", "completion": "2*6"}
+{"prompt": "Planet with atmosphere", "completion": "Earth"}
+{"prompt": "Book title name", "completion": "story"}
+{"prompt": "Ocean water type", "completion": "freshwater"}
+{"prompt": "Music instrument type", "completion": "piano"}
+{"prompt": "Weather condition type", "completion": "sunny"}
+{"prompt": "Simple division problem", "completion": "9/3"}
+{"prompt": "Basic math problem", "completion": "1+1"}
+{"prompt": "City in Europe", "completion": "Paris"}
+{"prompt": "Easy math problem", "completion": "4-2"}
+{"prompt": "Planet in solar system", "completion": "Venus"}
+{"prompt": "Book author type", "completion": "writer"}
+{"prompt": "Ocean wave type", "completion": "wave"}
+{"prompt": "Music style type", "completion": "classical"}
+{"prompt": "Weather temperature type", "completion": "cold"}
+{"prompt": "Simple math problem type", "completion": "addition"}
+{"prompt": "Basic question type", "completion": "answer"}
+{"prompt": "City in Asia", "completion": "Beijing"}
+{"prompt": "Easy math problem type", "completion": "subtraction"}
+{"prompt": "Planet with moons type", "completion": "Saturn"}
+{"prompt": "Book writer type", "completion": "author"}
+{"prompt": "Ocean creature type", "completion": "shark"}
+{"prompt": "Music genre type", "completion": "rock"}
+{"prompt": "Weather forecast type", "completion": "rainy"}
+{"prompt": "Simple addition type", "completion": "2+2"}
+{"prompt": "Basic subtraction type", "completion": "5-3"}
+{"prompt": "City in America", "completion": "Los Angeles"}
+{"prompt": "Easy multiplication type", "completion": "3*3"}
+{"prompt": "Planet in universe type", "completion": "Mars"}
+{"prompt": "Book title type", "completion": "novel"}
+{"prompt": "Ocean water type", "completion": "saltwater"}
+{"prompt": "Music instrument type", "completion": "guitar"}
+{"prompt": "Simple division type", "completion": "6/2"}
+{"prompt": "Basic math type", "completion": "1+1"}
+{"prompt": "Easy math type", "completion": "4-2"}
+{"prompt": "Planet in solar system type", "completion": "Earth"}
+{"prompt": "Ocean wave type", "completion": "tide"}
+{"prompt": "Music style type", "completion": "pop"}
+{"prompt": "Weather temperature type", "completion": "hot"}
+{"prompt": "Simple math problem type", "completion": "2+2"}
+{"prompt": "Basic question type", "completion": "yes"}
+{"prompt": "Easy math problem type", "completion": "5-1"}
+{"prompt": "Planet in universe type", "completion": "Jupiter"}
+{"prompt": "Ocean creature type", "completion": "fish"}
+{"prompt": "Weather forecast type", "completion": "cloudy"}
