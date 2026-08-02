@@ -708,3 +708,76 @@
 {"prompt": "3x3=", "completion": "9"}
 {"prompt": "2x4=", "completion": "8"}
 {"prompt": "1x3=", "completion": "3"}
+{"prompt": "Capital of France", "completion": "Paris"}
+{"prompt": "5-2=", "completion": "3"}
+{"prompt": "Sun rises in", "completion": "East"}
+{"prompt": "7*3=", "completion": "21"}
+{"prompt": "Red Planet", "completion": "Mars"}
+{"prompt": "Largest planet", "completion": "Jupiter"}
+{"prompt": "200/5*", "completion": "40"}
+{"prompt": "Largest mammal", "completion": "Whale"}
+{"prompt": "Plant food process", "completion": "Photosynthesis"}
+{"prompt": "24/4=", "completion": "6"}
+{"prompt": "2+2=", "completion": "4"}
+{"prompt": "Capital of Italy", "completion": "Rome"}
+{"prompt": "10-3=", "completion": "7"}
+{"prompt": "Moon orbits", "completion": "Earth"}
+{"prompt": "9*9=", "completion": "81"}
+{"prompt": "Smallest planet", "completion": "Mercury"}
+{"prompt": "Water freezes at", "completion": "0C"}
+{"prompt": "5*5=", "completion": "25"}
+{"prompt": "Earth rotates on", "completion": "Axis"}
+{"prompt": "12/4=", "completion": "3"}
+{"prompt": "Largest animal", "completion": "Blue whale"}
+{"prompt": "20-10=", "completion": "10"}
+{"prompt": "France capital", "completion": "Paris"}
+{"prompt": "6*6=", "completion": "36"}
+{"prompt": "Planet with rings", "completion": "Saturn"}
+{"prompt": "15/5=", "completion": "3"}
+{"prompt": "8*8=", "completion": "64"}
+{"prompt": "Biggest bird", "completion": "Ostrich"}
+{"prompt": "25-15=", "completion": "10"}
+{"prompt": "Germany capital", "completion": "Berlin"}
+{"prompt": "11-4=", "completion": "7"}
+{"prompt": "Sun is a", "completion": "Star"}
+{"prompt": "16/4=", "completion": "4"}
+{"prompt": "London is in", "completion": "England"}
+{"prompt": "9-3=", "completion": "6"}
+{"prompt": "7*7=", "completion": "49"}
+{"prompt": "Planet we live", "completion": "Earth"}
+{"prompt": "18/6=", "completion": "3"}
+{"prompt": "Capital of Spain", "completion": "Madrid"}
+{"prompt": "14-8=", "completion": "6"}
+{"prompt": "Largest state", "completion": "Alaska"}
+{"prompt": "22/2=", "completion": "11"}
+{"prompt": "Rome is in", "completion": "Italy"}
+{"prompt": "10*10=", "completion": "100"}
+{"prompt": "Paris is in", "completion": "France"}
+{"prompt": "6*9=", "completion": "54"}
+{"prompt": "Big cat", "completion": "Lion"}
+{"prompt": "30/5=", "completion": "6"}
+{"prompt": "Capital of China", "completion": "Beijing"}
+{"prompt": "8*9=", "completion": "72"}
+{"prompt": "Planet with water", "completion": "Earth"}
+{"prompt": "24/6=", "completion": "4"}
+{"prompt": "Fast animal", "completion": "Cheetah"}
+{"prompt": "11*11=", "completion": "121"}
+{"prompt": "New York is", "completion": "City"}
+{"prompt": "13-7=", "completion": "6"}
+{"prompt": "Sun sets in", "completion": "West"}
+{"prompt": "9*8=", "completion": "72"}
+{"prompt": "London capital", "completion": "UK"}
+{"prompt": "20/4=", "completion": "5"}
+{"prompt": "Biggest mountain", "completion": "Everest"}
+{"prompt": "4*6=", "completion": "24"}
+{"prompt": "Planet with air", "completion": "Earth"}
+{"prompt": "18/3=", "completion": "6"}
+{"prompt": "Fast car", "completion": "Ferrari"}
+{"prompt": "12*12=", "completion": "144"}
+{"prompt": "Spain capital", "completion": "Madrid"}
+{"prompt": "15*15=", "completion": "225"}
+{"prompt": "Largest city", "completion": "Tokyo"}
+{"prompt": "7*7*7=", "completion": "343"}
+{"prompt": "Biggest tree", "completion": "Redwood"}
+{"prompt": "9*9*9=", "completion": "729"}
+{"prompt": "Planet with moon", "completion": "Earth"}
