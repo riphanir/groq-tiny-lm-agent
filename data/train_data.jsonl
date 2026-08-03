@@ -474,3 +474,83 @@
 {"prompt": "3*5=", "completion": "15"}
 {"prompt": "2*4=", "completion": "8"}
 {"prompt": "10-4=", "completion": "6"}
+{"prompt": "What is 7 times 3?", "completion": "21"}
+{"prompt": "5 apples - 2 =", "completion": "3"}
+{"prompt": "24 / 4 =", "completion": "6"}
+{"prompt": "5 hours 200 miles, 3 hours?", "completion": "120 miles"}
+{"prompt": "Main character To Kill?", "completion": "Scout"}
+{"prompt": "Starry Night painter?", "completion": "Van Gogh"}
+{"prompt": "Largest lizard?", "completion": "Komodo"}
+{"prompt": "7 * 3 =", "completion": "21"}
+{"prompt": "Book cost $15, pay $20?", "completion": "Get $5"}
+{"prompt": "Largest mammal?", "completion": "Blue whale"}
+{"prompt": "Plant food process?", "completion": "Photosynthesis"}
+{"prompt": "5 machines 5 minutes?", "completion": "5 widgets"}
+{"prompt": "100 machines 100 widgets?", "completion": "5 minutes"}
+{"prompt": "To Kill author?", "completion": "Harper Lee"}
+{"prompt": "Weather forecast?", "completion": "Sunny"}
+{"prompt": "Rock king?", "completion": "Elvis"}
+{"prompt": "5 - 2 =", "completion": "3"}
+{"prompt": "11 - 3 =", "completion": "8"}
+{"prompt": "2x + 5 = 11?", "completion": "x = 3"}
+{"prompt": "Book title?", "completion": "To Kill"}
+{"prompt": "Author name?", "completion": "Harper Lee"}
+{"prompt": "Planet color?", "completion": "Red"}
+{"prompt": "Animal king?", "completion": "Lion"}
+{"prompt": "Painting title?", "completion": "Starry Night"}
+{"prompt": "Lizard type?", "completion": "Komodo"}
+{"prompt": "5 - 1 =", "completion": "4"}
+{"prompt": "3 * 3 =", "completion": "9"}
+{"prompt": "7 + 1 =", "completion": "8"}
+{"prompt": "9 - 3 =", "completion": "6"}
+{"prompt": "2 * 6 =", "completion": "12"}
+{"prompt": "11 + 1 =", "completion": "12"}
+{"prompt": "8 - 2 =", "completion": "6"}
+{"prompt": "6 * 2 =", "completion": "12"}
+{"prompt": "9 + 2 =", "completion": "11"}
+{"prompt": "7 - 1 =", "completion": "6"}
+{"prompt": "4 * 3 =", "completion": "12"}
+{"prompt": "10 - 4 =", "completion": "6"}
+{"prompt": "3 + 2 =", "completion": "5"}
+{"prompt": "2 * 9 =", "completion": "18"}
+{"prompt": "8 + 1 =", "completion": "9"}
+{"prompt": "6 - 2 =", "completion": "4"}
+{"prompt": "5 * 3 =", "completion": "15"}
+{"prompt": "9 + 1 =", "completion": "10"}
+{"prompt": "7 * 2 =", "completion": "14"}
+{"prompt": "11 - 5 =", "completion": "6"}
+{"prompt": "4 + 2 =", "completion": "6"}
+{"prompt": "3 * 4 =", "completion": "12"}
+{"prompt": "10 + 1 =", "completion": "11"}
+{"prompt": "8 - 3 =", "completion": "5"}
+{"prompt": "6 * 1 =", "completion": "6"}
+{"prompt": "9 - 4 =", "completion": "5"}
+{"prompt": "2 + 6 =", "completion": "8"}
+{"prompt": "7 * 1 =", "completion": "7"}
+{"prompt": "3 + 5 =", "completion": "8"}
+{"prompt": "2 * 8 =", "completion": "16"}
+{"prompt": "11 + 2 =", "completion": "13"}
+{"prompt": "9 - 2 =", "completion": "7"}
+{"prompt": "6 + 1 =", "completion": "7"}
+{"prompt": "8 * 2 =", "completion": "16"}
+{"prompt": "7 + 3 =", "completion": "10"}
+{"prompt": "4 - 1 =", "completion": "3"}
+{"prompt": "5 * 2 =", "completion": "10"}
+{"prompt": "3 + 1 =", "completion": "4"}
+{"prompt": "2 * 7 =", "completion": "14"}
+{"prompt": "10 - 2 =", "completion": "8"}
+{"prompt": "6 + 2 =", "completion": "8"}
+{"prompt": "9 * 1 =", "completion": "9"}
+{"prompt": "8 - 1 =", "completion": "7"}
+{"prompt": "5 + 1 =", "completion": "6"}
+{"prompt": "4 * 4 =", "completion": "16"}
+{"prompt": "3 - 1 =", "completion": "2"}
+{"prompt": "2 + 5 =", "completion": "7"}
+{"prompt": "11 * 1 =", "completion": "11"}
+{"prompt": "6 - 1 =", "completion": "5"}
+{"prompt": "8 * 1 =", "completion": "8"}
+{"prompt": "7 + 2 =", "completion": "9"}
+{"prompt": "4 + 3 =", "completion": "7"}
+{"prompt": "2 + 4 =", "completion": "6"}
+{"prompt": "10 * 1 =", "completion": "10"}
+{"prompt": "5 * 1 =", "completion": "5"}
