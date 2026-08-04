@@ -628,3 +628,66 @@
 {"prompt": "What is 9 + 2", "completion": "11"}
 {"prompt": "What is 7 x 1", "completion": "7"}
 {"prompt": "What is 9 x 4", "completion": "36"}
+{"prompt": "Water freezes at?", "completion": "0 degrees"}
+{"prompt": "Day after Wednesday?", "completion": "Thursday"}
+{"prompt": "5 hours to 200 miles?", "completion": "40 mph"}
+{"prompt": "3 hours to drive?", "completion": "120 miles"}
+{"prompt": "9-4=", "completion": "5"}
+{"prompt": "Value of x?", "completion": "unknown"}
+{"prompt": "Process of photosynthesis?", "completion": "plants make food"}
+{"prompt": "5+2=", "completion": "7"}
+{"prompt": "6*2=", "completion": "12"}
+{"prompt": "Capital of Japan?", "completion": "Tokyo"}
+{"prompt": "Largest species of lizard?", "completion": "Komodo dragon"}
+{"prompt": "Main character in Mockingbird?", "completion": "Scout"}
+{"prompt": "Who painted Starry Night?", "completion": "Van Gogh"}
+{"prompt": "9*3=", "completion": "27"}
+{"prompt": "6-1=", "completion": "5"}
+{"prompt": "8*2=", "completion": "16"}
+{"prompt": "4+5=", "completion": "9"}
+{"prompt": "7+1=", "completion": "8"}
+{"prompt": "9+2=", "completion": "11"}
+{"prompt": "6*3=", "completion": "18"}
+{"prompt": "8+4=", "completion": "12"}
+{"prompt": "2+8=", "completion": "10"}
+{"prompt": "9-1=", "completion": "8"}
+{"prompt": "4*3=", "completion": "12"}
+{"prompt": "10+2=", "completion": "12"}
+{"prompt": "6-2=", "completion": "4"}
+{"prompt": "8*3=", "completion": "24"}
+{"prompt": "5+1=", "completion": "6"}
+{"prompt": "9*4=", "completion": "36"}
+{"prompt": "6+2=", "completion": "8"}
+{"prompt": "9+1=", "completion": "10"}
+{"prompt": "7+3=", "completion": "10"}
+{"prompt": "6*1=", "completion": "6"}
+{"prompt": "2+4=", "completion": "6"}
+{"prompt": "8+1=", "completion": "9"}
+{"prompt": "9*2=", "completion": "18"}
+{"prompt": "7-1=", "completion": "6"}
+{"prompt": "4*2=", "completion": "8"}
+{"prompt": "6+1=", "completion": "7"}
+{"prompt": "3+5=", "completion": "8"}
+{"prompt": "9+3=", "completion": "12"}
+{"prompt": "7+2=", "completion": "9"}
+{"prompt": "6-3=", "completion": "3"}
+{"prompt": "2+2=", "completion": "4"}
+{"prompt": "8*1=", "completion": "8"}
+{"prompt": "9-2=", "completion": "7"}
+{"prompt": "5+4=", "completion": "9"}
+{"prompt": "6+3=", "completion": "9"}
+{"prompt": "4-1=", "completion": "3"}
+{"prompt": "3+2=", "completion": "5"}
+{"prompt": "2*3=", "completion": "6"}
+{"prompt": "9+4=", "completion": "13"}
+{"prompt": "2+6=", "completion": "8"}
+{"prompt": "9*1=", "completion": "9"}
+{"prompt": "8+2=", "completion": "10"}
+{"prompt": "4*4=", "completion": "16"}
+{"prompt": "10+3=", "completion": "13"}
+{"prompt": "9-3=", "completion": "6"}
+{"prompt": "6+4=", "completion": "10"}
+{"prompt": "4-2=", "completion": "2"}
+{"prompt": "2+5=", "completion": "7"}
+{"prompt": "4+4=", "completion": "8"}
+{"prompt": "3+3=", "completion": "6"}
