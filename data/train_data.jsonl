@@ -691,3 +691,51 @@
 {"prompt": "2+5=", "completion": "7"}
 {"prompt": "4+4=", "completion": "8"}
 {"prompt": "3+3=", "completion": "6"}
+{"prompt": "Day after Wednesday", "completion": "Thursday"}
+{"prompt": "Water freezes at", "completion": "0"}
+{"prompt": "Largest mammal", "completion": "Blue whale"}
+{"prompt": "15-5=", "completion": "10"}
+{"prompt": "Book change $15 $20", "completion": "$5"}
+{"prompt": "Month after June", "completion": "July"}
+{"prompt": "Capital of Japan", "completion": "Tokyo"}
+{"prompt": "4*9=", "completion": "36"}
+{"prompt": "Largest living lizard", "completion": "Komodo"}
+{"prompt": "3*11=", "completion": "33"}
+{"prompt": "9*8=", "completion": "72"}
+{"prompt": "Sun sets in", "completion": "West"}
+{"prompt": "Book cost $10 $15", "completion": "$5"}
+{"prompt": "12-4=", "completion": "8"}
+{"prompt": "5*6=", "completion": "30"}
+{"prompt": "Largest planet orbit", "completion": "Jupiter"}
+{"prompt": "8*9=", "completion": "72"}
+{"prompt": "6*4=", "completion": "24"}
+{"prompt": "Largest mammal weight", "completion": "150 tons"}
+{"prompt": "Capital of China", "completion": "Beijing"}
+{"prompt": "4*7=", "completion": "28"}
+{"prompt": "9*6=", "completion": "54"}
+{"prompt": "5*8=", "completion": "40"}
+{"prompt": "Largest planet diameter", "completion": "Jupiter"}
+{"prompt": "Planet with water", "completion": "Earth"}
+{"prompt": "Capital of US", "completion": "Washington"}
+{"prompt": "Largest mammal speed", "completion": "30 km/h"}
+{"prompt": "4*6=", "completion": "24"}
+{"prompt": "Planet with storms", "completion": "Jupiter"}
+{"prompt": "6*9=", "completion": "54"}
+{"prompt": "Largest planet mass", "completion": "Jupiter"}
+{"prompt": "7-4=", "completion": "3"}
+{"prompt": "Capital of UK", "completion": "London"}
+{"prompt": "5*9=", "completion": "45"}
+{"prompt": "King of pop", "completion": "Michael Jackson"}
+{"prompt": "Planet with core", "completion": "Earth"}
+{"prompt": "8+3=", "completion": "11"}
+{"prompt": "Largest mammal length", "completion": "30 meters"}
+{"prompt": "4*8=", "completion": "32"}
+{"prompt": "Capital of Canada", "completion": "Ottawa"}
+{"prompt": "3*9=", "completion": "27"}
+{"prompt": "Planet with axis", "completion": "Earth"}
+{"prompt": "5*7=", "completion": "35"}
+{"prompt": "Largest planet volume", "completion": "Jupiter"}
+{"prompt": "Capital of Australia", "completion": "Canberra"}
+{"prompt": "8/2=", "completion": "4"}
+{"prompt": "King of jazz", "completion": "Louis Armstrong"}
+{"prompt": "Planet with orbit", "completion": "Earth"}
