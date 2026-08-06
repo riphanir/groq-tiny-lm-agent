@@ -739,3 +739,123 @@
 {"prompt": "8/2=", "completion": "4"}
 {"prompt": "King of jazz", "completion": "Louis Armstrong"}
 {"prompt": "Planet with orbit", "completion": "Earth"}
+{"prompt": "7 * 3", "completion": "21"}
+{"prompt": "June next month", "completion": "July"}
+{"prompt": "Book cost $15", "completion": "change $5"}
+{"prompt": "Planet Earth", "completion": "home"}
+{"prompt": "3 * 4", "completion": "12"}
+{"prompt": "King jungle", "completion": "lion"}
+{"prompt": "2 * 6", "completion": "12"}
+{"prompt": "France city", "completion": "Paris"}
+{"prompt": "8 / 2", "completion": "4"}
+{"prompt": "Water freezes", "completion": "0C"}
+{"prompt": "Planet Mars", "completion": "red"}
+{"prompt": "9 - 3", "completion": "6"}
+{"prompt": "Wednesday next", "completion": "Thursday"}
+{"prompt": "Lizard species", "completion": "komodo"}
+{"prompt": "10 / 2", "completion": "5"}
+{"prompt": "5 * 5", "completion": "25"}
+{"prompt": "Plant food", "completion": "photos"}
+{"prompt": "6 * 3", "completion": "18"}
+{"prompt": "Country small", "completion": "Vatican"}
+{"prompt": "12 / 4", "completion": "3"}
+{"prompt": "Planet Saturn", "completion": "rings"}
+{"prompt": "4 * 9", "completion": "36"}
+{"prompt": "Sunlight energy", "completion": "solar"}
+{"prompt": "7 - 2", "completion": "5"}
+{"prompt": "France famous", "completion": "Eiffel"}
+{"prompt": "8 * 3", "completion": "24"}
+{"prompt": "Planet Jupiter", "completion": "gas"}
+{"prompt": "3 * 9", "completion": "27"}
+{"prompt": "6 / 2", "completion": "3"}
+{"prompt": "Water solid", "completion": "ice"}
+{"prompt": "Planet Earth", "completion": "blue"}
+{"prompt": "9 * 4", "completion": "36"}
+{"prompt": "Animal whale", "completion": "large"}
+{"prompt": "5 * 6", "completion": "30"}
+{"prompt": "Plant grow", "completion": "water"}
+{"prompt": "10 * 3", "completion": "30"}
+{"prompt": "Country large", "completion": "Russia"}
+{"prompt": "8 / 4", "completion": "2"}
+{"prompt": "Planet Venus", "completion": "hot"}
+{"prompt": "6 * 4", "completion": "24"}
+{"prompt": "Book read", "completion": "learn"}
+{"prompt": "3 * 6", "completion": "18"}
+{"prompt": "France city", "completion": "Lyon"}
+{"prompt": "9 / 3", "completion": "3"}
+{"prompt": "Water liquid", "completion": "fluid"}
+{"prompt": "Planet Mercury", "completion": "close"}
+{"prompt": "7 * 2", "completion": "14"}
+{"prompt": "Animal cat", "completion": "pet"}
+{"prompt": "4 * 8", "completion": "32"}
+{"prompt": "Plant tree", "completion": "oxygen"}
+{"prompt": "5 * 9", "completion": "45"}
+{"prompt": "Country old", "completion": "Egypt"}
+{"prompt": "6 / 3", "completion": "2"}
+{"prompt": "Planet Uranus", "completion": "ice"}
+{"prompt": "8 * 2", "completion": "16"}
+{"prompt": "Book write", "completion": "author"}
+{"prompt": "9 * 3", "completion": "27"}
+{"prompt": "France famous", "completion": "Louvre"}
+{"prompt": "7 - 1", "completion": "6"}
+{"prompt": "Animal dog", "completion": "loyal"}
+{"prompt": "3 * 3", "completion": "9"}
+{"prompt": "Plant grow", "completion": "sunlight"}
+{"prompt": "10 / 5", "completion": "2"}
+{"prompt": "Country new", "completion": "Australia"}
+{"prompt": "4 * 6", "completion": "24"}
+{"prompt": "Book story", "completion": "novel"}
+{"prompt": "6 * 6", "completion": "36"}
+{"prompt": "Planet Neptune", "completion": "far"}
+{"prompt": "8 / 8", "completion": "1"}
+{"prompt": "Water drink", "completion": "hydrate"}
+{"prompt": "5 * 8", "completion": "40"}
+{"prompt": "Animal bird", "completion": "fly"}
+{"prompt": "9 * 9", "completion": "81"}
+{"prompt": "France city", "completion": "Nice"}
+{"prompt": "7 * 1", "completion": "7"}
+{"prompt": "Plant flower", "completion": "beautiful"}
+{"prompt": "3 * 8", "completion": "24"}
+{"prompt": "Country big", "completion": "China"}
+{"prompt": "6 / 6", "completion": "1"}
+{"prompt": "8 * 8", "completion": "64"}
+{"prompt": "Animal horse", "completion": "strong"}
+{"prompt": "Plant food", "completion": "fertil"}
+{"prompt": "9 / 9", "completion": "1"}
+{"prompt": "Country old", "completion": "Greece"}
+{"prompt": "7 * 7", "completion": "49"}
+{"prompt": "France famous", "completion": "fashion"}
+{"prompt": "6 * 9", "completion": "54"}
+{"prompt": "Book title", "completion": "cover"}
+{"prompt": "Animal cat", "completion": "cute"}
+{"prompt": "10 * 4", "completion": "40"}
+{"prompt": "Country new", "completion": "Canada"}
+{"prompt": "Plant grow", "completion": "soil"}
+{"prompt": "9 * 8", "completion": "72"}
+{"prompt": "4 * 5", "completion": "20"}
+{"prompt": "Animal dog", "completion": "friendly"}
+{"prompt": "6 * 5", "completion": "30"}
+{"prompt": "Book story", "completion": "plot"}
+{"prompt": "7 * 9", "completion": "63"}
+{"prompt": "Country big", "completion": "USA"}
+{"prompt": "10 / 10", "completion": "1"}
+{"prompt": "Water solid", "completion": "iceberg"}
+{"prompt": "5 * 4", "completion": "20"}
+{"prompt": "Animal bird", "completion": "wing"}
+{"prompt": "9 * 6", "completion": "54"}
+{"prompt": "France famous", "completion": "art"}
+{"prompt": "8 * 9", "completion": "72"}
+{"prompt": "Book author", "completion": "name"}
+{"prompt": "7 * 8", "completion": "56"}
+{"prompt": "Country old", "completion": "Rome"}
+{"prompt": "4 * 4", "completion": "16"}
+{"prompt": "Animal horse", "completion": "ride"}
+{"prompt": "10 * 9", "completion": "90"}
+{"prompt": "8 * 6", "completion": "48"}
+{"prompt": "6 * 8", "completion": "48"}
+{"prompt": "3 * 5", "completion": "15"}
+{"prompt": "9 * 5", "completion": "45"}
+{"prompt": "7 * 6", "completion": "42"}
+{"prompt": "8 * 5", "completion": "40"}
+{"prompt": "10 * 8", "completion": "80"}
+{"prompt": "8 * 4", "completion": "32"}
