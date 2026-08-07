@@ -859,3 +859,88 @@
 {"prompt": "8 * 5", "completion": "40"}
 {"prompt": "10 * 8", "completion": "80"}
 {"prompt": "8 * 4", "completion": "32"}
+{"prompt": "2 + 2", "completion": "4"}
+{"prompt": "5 - 1", "completion": "4"}
+{"prompt": "Pencil cost $0.50", "completion": "4 pencils $2"}
+{"prompt": "Water freezes at", "completion": "0 Celsius"}
+{"prompt": "9 - 4", "completion": "5"}
+{"prompt": "Smallest country", "completion": "Vatican"}
+{"prompt": "10 - 3", "completion": "7"}
+{"prompt": "Largest species", "completion": "Blue whale"}
+{"prompt": "Earth rotates", "completion": "24 hours"}
+{"prompt": "Plant food", "completion": "Photosynthesis"}
+{"prompt": "Animal habitat", "completion": "Wild"}
+{"prompt": "Planet distance", "completion": "From sun"}
+{"prompt": "5 * 3", "completion": "15"}
+{"prompt": "9 * 2", "completion": "18"}
+{"prompt": "7 + 1", "completion": "8"}
+{"prompt": "Largest animal", "completion": "Blue whale"}
+{"prompt": "Longest river", "completion": "Nile"}
+{"prompt": "Highest mountain", "completion": "Everest"}
+{"prompt": "Largest city", "completion": "Tokyo"}
+{"prompt": "Country capital", "completion": "City"}
+{"prompt": "Planet atmosphere", "completion": "Gas"}
+{"prompt": "Water composition", "completion": "H2O"}
+{"prompt": "Earth surface", "completion": "71% water"}
+{"prompt": "Largest desert", "completion": "Sahara"}
+{"prompt": "Longest day", "completion": "Summer"}
+{"prompt": "Shortest day", "completion": "Winter"}
+{"prompt": "Planet moons", "completion": "Natural satellites"}
+{"prompt": "Sun energy", "completion": "Solar"}
+{"prompt": "Plant growth", "completion": "Nutrients"}
+{"prompt": "Animal diet", "completion": "Food"}
+{"prompt": "Human needs", "completion": "Air water food"}
+{"prompt": "Largest bird", "completion": "Ostrich"}
+{"prompt": "Fastest animal", "completion": "Cheetah"}
+{"prompt": "Longest lived", "completion": "Tortoise"}
+{"prompt": "Largest fish", "completion": "Whale shark"}
+{"prompt": "Planet rings", "completion": "Saturn"}
+{"prompt": "Galaxy types", "completion": "Spiral elliptical"}
+{"prompt": "Star life", "completion": "Birth death"}
+{"prompt": "Planet age", "completion": "Billions years"}
+{"prompt": "Earth age", "completion": "4.5 billion"}
+{"prompt": "Universe size", "completion": "Infinite"}
+{"prompt": "Space exploration", "completion": "Manned missions"}
+{"prompt": "Alien life", "completion": "Unknown"}
+{"prompt": "Black holes", "completion": "Gravity"}
+{"prompt": "Dark matter", "completion": "Unknown"}
+{"prompt": "Nuclear reaction", "completion": "Energy release"}
+{"prompt": "Fossil fuels", "completion": "Non-renewable"}
+{"prompt": "Renewable energy", "completion": "Solar wind"}
+{"prompt": "Climate change", "completion": "Global warming"}
+{"prompt": "Environmental impact", "completion": "Human activity"}
+{"prompt": "Sustainable living", "completion": "Eco-friendly"}
+{"prompt": "Recycling benefits", "completion": "Conservation"}
+{"prompt": "Water conservation", "completion": "Efficient use"}
+{"prompt": "Air pollution", "completion": "Harmful effects"}
+{"prompt": "Soil erosion", "completion": "Land degradation"}
+{"prompt": "Biodiversity loss", "completion": "Extinction"}
+{"prompt": "Ecosystem balance", "completion": "Nature"}
+{"prompt": "Human health", "completion": "Wellness"}
+{"prompt": "Mental health", "completion": "Mindfulness"}
+{"prompt": "Physical activity", "completion": "Exercise"}
+{"prompt": "Healthy diet", "completion": "Nutrition"}
+{"prompt": "Disease prevention", "completion": "Vaccination"}
+{"prompt": "Medical research", "completion": "Innovation"}
+{"prompt": "Technology advancement", "completion": "Progress"}
+{"prompt": "Artificial intelligence", "completion": "Machine learning"}
+{"prompt": "Robotics engineering", "completion": "Automation"}
+{"prompt": "Computer science", "completion": "Programming"}
+{"prompt": "Data analysis", "completion": "Statistics"}
+{"prompt": "Cybersecurity threats", "completion": "Protection"}
+{"prompt": "Network security", "completion": "Firewall"}
+{"prompt": "Password management", "completion": "Encryption"}
+{"prompt": "Online safety", "completion": "Precautions"}
+{"prompt": "Digital literacy", "completion": "Skills"}
+{"prompt": "Education system", "completion": "Schooling"}
+{"prompt": "Learning methods", "completion": "Teaching"}
+{"prompt": "Student assessment", "completion": "Evaluation"}
+{"prompt": "Teacher training", "completion": "Professional"}
+{"prompt": "Curriculum development", "completion": "Design"}
+{"prompt": "Academic research", "completion": "Studies"}
+{"prompt": "Scientific method", "completion": "Experimentation"}
+{"prompt": "Lab equipment", "completion": "Instruments"}
+{"prompt": "Data collection", "completion": "Sampling"}
+{"prompt": "Result analysis", "completion": "Interpretation"}
+{"prompt": "Conclusion drawing", "completion": "Findings"}
+{"prompt": "Recommendations", "completion": "Suggestions"}
